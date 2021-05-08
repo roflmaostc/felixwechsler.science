@@ -18,7 +18,7 @@ I'm currently a photonics master student at the [Microscopy department of the Le
 
 
 
-In 2019 I finished two bachelor's degrees in Physics and Informatics at the [Technical University of Munich](www.tum.de). My informatics thesis was about
+In 2019 I finished two bachelor's degrees in Physics and Informatics at the [Technical University of Munich](https://www.tum.de). My informatics thesis was about
 [Light Field Microscopy](https://mediatum.ub.tum.de/1543570) at the [Computational Imaging and Inverse Problems research group](https://ciip.in.tum.de/).
 In physics I did theoretical and experimental [Schlieren and Shadowgraphy Imaging studies](https://felix.sumpi.org/bachelor_thesis_felix_wechsler_physics.pdf)at the [Max Planck Institute for Physics](https://www.mpp.mpg.de/forschung/neue-technologien/awake-beschleunigung-mit-plasmawellen) in preparation for the next generation AWAKE accelerator.
 
