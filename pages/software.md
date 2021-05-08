@@ -1,5 +1,5 @@
 # Software
-At the moment I mainly develop packages in [Julia](www.julialang.org)
+At the moment I mainly develop packages written in [Julia](www.julialang.org)
 
 
 * A generic deconvolution package called [DeconvOptim.jl](https://github.com/roflmaostc/DeconvOptim.jl) written in Julia. The gradient step is calculated using automatic differentation (Zygote.jl) and the deconvolution is able to run on CPU and GPU.
