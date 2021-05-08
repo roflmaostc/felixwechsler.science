@@ -13,6 +13,7 @@
 </div>
 ~~~
 
+
 I'm currently a photonics master student at the [Microscopy department of the Leibniz Institute of Photonic Technology in Jena](https://nanoimaging.de) and [K|Lens GmbH](https://www.k-lens.de/) under the joint supervision of [Rainer Heintzmann](https://sites.google.com/site/heintzmann/) and [Ivo Ihrke](manao.inria.fr/perso/~ihrke/wordpress/).
 
 
@@ -25,3 +26,20 @@ My bachelor's thesis in physics was about [Schlieren and Shadowgraphy Imaging st
 ## Current Projects 
 * A generic deconvolution package called [DeconvOptim.jl](https://github.com/roflmaostc/DeconvOptim.jl) written in Julia. The gradient step is calculated using automatic differentation (Zygote.jl) and the deconvolution is able to run on CPU and GPU.
 * My master thesis is about a kaleidoscopic multi view microscope.
+
+
+
+
+~~~
+<br>
+<br>
+<div class="row">
+  <div class="container" align="center">
+    <a href="https://www.github.com/roflmaostc"><i class="fab fa-github fa-fw fa-2x"></i></a>
+    <a href="https://scholar.google.de/citations?user=Mc9KWkgAAAAJ&hl=de&oi=ao"><i class="ai ai-google-scholar-square ai-2x"></i> </a>
+    <a href="https://www.linkedin.com/in/felix-wechsler-64319070/"><i class="fab fa-linkedin fa-2x fa-fw"></i> </a>
+    <a href="mailto:fxw+felixwechslerscience@mailbox.org"><i class="fa fa-envelope  fa-2x fa-fw"></i> </a>
+  </div> 
+</div>
+
+~~~
