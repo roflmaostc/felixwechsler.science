@@ -61,7 +61,7 @@ html {
 .page-foot {
   font-size: 80%;
   font-family: Arial, serif;
-  color: #a6a2a0;
+  color: #889484;
   text-align: center;
   margin-top: 6em;
   border-top: 1px solid lightgrey;
@@ -88,7 +88,7 @@ html {
 /* On wide screens, fix content width to a max value. */
 @media (min-width: 940px) {
   .franklin-content {
-    width: 705px;
+    width: 905px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -186,7 +186,7 @@ td {
 }
 
 .franklin-content a {
-  color: #004de6;
+  color: #b74430;
   text-decoration: none;
 }
 
@@ -317,7 +317,7 @@ code {
 ================================================================== */
 
 .franklin-content .colbox-blue {
-  background-color: #eef3f5;
+  background-color: #ff2600;
   padding-top: 5px;
   padding-right: 10px;
   padding-left: 10px;
