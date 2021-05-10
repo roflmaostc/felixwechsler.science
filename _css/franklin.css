@@ -59,13 +59,13 @@ html {
 }
 
 .page-foot {
-  font-size: 80%;
+  font-size: 60%;
   font-family: Arial, serif;
-  color: #889484;
+  color: #8b7e6d;
   text-align: center;
   margin-top: 6em;
-  border-top: 1px solid lightgrey;
-  padding-top: 2em;
+  border-top: 1px solid #8b7e6d;
+  padding-top: 0em;
   margin-bottom: 4em;
 }
 
@@ -80,8 +80,8 @@ html {
 
 .franklin-content {
   position: relative;
-  padding-left: 12.5%;
-  padding-right: 12.5%;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
   line-height: 1.35em;
 }
 
@@ -121,14 +121,14 @@ h6 {
 
 .franklin-content h1 {
   padding-bottom: 0.5em;
-  border-bottom: 3px double lightgrey;
+  border-bottom: 3px double #8b7e6d;
   margin-top: 1.5em;
   margin-bottom: 1em;
 }
 
 .franklin-content h2 {
   padding-bottom: 0.3em;
-  border-bottom: 1px solid lightgrey;
+  border-bottom: 1px solid #8b7e6d;
   margin-top: 2em;
   margin-bottom: 1em;
 }
@@ -220,7 +220,7 @@ td {
 }
 
 .franklin-content .fndef tr {
-  border-left: 2px solid lightgray;
+  border-left: 2px solid #8b7e6d;
 }
 
 .franklin-content .fndef td.fndef-backref {

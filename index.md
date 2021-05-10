@@ -28,7 +28,6 @@
 
 
 ##
-
 ~~~
 <div class="row">
   <div class="container" align="center">
@@ -38,5 +37,4 @@
     <a href="mailto:fxw+felixwechslerscience@mailbox.org"><i class="fa fa-envelope  fa-2x fa-fw"></i> </a>
   </div> 
 </div>
-
 ~~~

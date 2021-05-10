@@ -46,13 +46,13 @@ header .blog-name {
   width: 46%;
   display: inline-block;
   text-align: left;
-  font-size: 25px;
+  font-size: 35px;
   font-family: "Lucida Console", Monaco, monospace;
   padding-top: 0px;
 }
 
 header .blog-name a {
-  color: #c64b36;
+  color: #8b7e6d;
   text-decoration: none;
 }
 
@@ -182,11 +182,11 @@ tr,
 th,
 td {
   padding: 10px;
-  border: 1px solid lightgray;
+  border: 1px solid #8b7e6d;
 }
 
 table tbody tr td {
-  border: 1px solid lightgray;
+  border: 1px solid #8b7e6d;
 }
 
 /* Create two unequal columns that floats next to each other */
