@@ -13,9 +13,11 @@
   <div class="column right">
     <p>My name is Felix Wechsler and my passion is combining optics with computer science.</p>
 <p  >I&#39;m currently a master student at the <a href="https://nanoimaging.de">Microscopy department of the Leibniz Institute of Photonic Technology in Jena</a> and <a href="https://www.k-lens.de/">K|Lens GmbH</a> under the joint supervision of <a href="https://sites.google.com/site/heintzmann/">Rainer Heintzmann</a> and <a href="http://manao.inria.fr/perso/~ihrke/wordpress/">Ivo Ihrke</a>.</p>
+    <p>In my freetime I enjoy <a href="https://www.komoot.com/user/1717958844029">graveling by bike</a> and playing <a href="https://paradiscojena.de/wiki/HomePage">Ultimate Frisbee</a>.</p>
   </div>
 </div>
 ~~~
+
 
 
 

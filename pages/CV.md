@@ -34,7 +34,7 @@ Felix Wechsler, born 1995 in Germany
 ## Misc
 * 2019 - today: Chairman of the [Orpheus e.V.](https://www.orpheus-verein.de/de/)
     * Responsible for managing the society and organizing seminars about physics with 200 participants.
-* 2014 - today: Supervisor and Juror
+* 2014 - today: Supervisor and Juror at the [GYPT](https://gypt.org/)
     * Guiding pupils during preparation. Support as juror in regional and final stages.
-* 2014 - 2019: Member of department council, speaker of physics and computer science year
+* 2014 - 2019: [Student Council](https://mpi.fs.tum.de/), member of the department council, speaker of physics and computer science year
     * Highest student representative in the department of Informatics representing > 5000 students.
