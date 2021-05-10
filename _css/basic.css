@@ -188,3 +188,24 @@ td {
 table tbody tr td {
   border: 1px solid lightgray;
 }
+
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: right;
+  padding: 0px;
+}
+
+.left {
+  width: 30%;
+}
+
+.right {
+  width: 68%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
