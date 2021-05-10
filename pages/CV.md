@@ -14,21 +14,21 @@ Felix Wechsler, born 1995 in Germany
 * 2020 - 2021: Working student microsystems engineer at [K|Lens](https://www.k-lens.de/)
 * 2019 - 2020: Working student in the field of machine learning at [ICO-LUX](https://ico-lux.de/)
 * 2019 - 2019: Working student [Max Planck Institute for Physics](https://www.mpp.mpg.de/forschung/neue-technologien/awake-beschleunigung-mit-plasmawellen)
-* 2015 - 2018: Several times teaching assistant in the subjects *Functional Programing and Verification* and *Basic Lab Course*
+* 2015 - 2018: Several times being teaching assistant in the subjects *Functional Programming and Verification* and *Basic Lab Course*
 * 2014 - 2017: Supervisor of the German team at the [International Young Physicists' Tournament (IYPT)](https://www.iypt.org/)
     * My part was to organize the [GYPT](https://gypt.org/) and train pupils for the IYPT. 
 * 2014 - 2016: Working student at the [Leibniz Supercomputing Centre, Garching](https://www.lrz.de/)
 
 ## Honours
-* Honours Programme of the University of Jena
+* [Honours Programme](https://www.uni-jena.de/wissenschaftliche+karriere/forschungsorientiertes+studium/honours-programm+f%C3%BCr+forschungsorientierte+studierende/aufnahmejahrgang+2020) of the University of Jena
     * Research grant and personal support for an optical inverse modeling framework. Awarded by the Friedrich Schiller University to only 0.4% of the students.
 * Thüringen Scholarship
     * Financial support during studies
-* Gold and silver medals at the IYPT as team captain and team leader
-* Several awards at the national level of the physics and mathematics olympiad
+* Gold and silver medals at the [IYPT](https://www.iypt.org) as team captain and team leader
+* Several awards at the national level of the [physics](https://www.scienceolympiaden.de/ipho) and [mathematics olympiad](https://www.mo-by.de/)
     * 20th and 51th place at the national level of the physics olympiad
     * Top 15 at the mathematics olympiad in Bavaria
-* Schülerpreis of the German Physical Society
+* [Schülerpreis](https://www.dpg-physik.de/auszeichnungen/dpg-preise/schuelerinnen-und-schuelerpreis/preistraeger) of the German Physical Society
     * awarded to only 10 pupils each year
 
 ## Misc
