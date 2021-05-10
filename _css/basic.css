@@ -3,7 +3,7 @@
 ================================================================== */
 
 nav {
-  width: 64%;
+  width: 70%;
   display: inline-block;
 }
 
@@ -18,19 +18,19 @@ nav li {
 }
 
 nav li a {
-  color: #004de6;
+  color: #c64b36;
   text-decoration: none;
   font-size: 18px;
   font-weight: bold;
   display: inline-block;
   float: center;
-  padding-top: 10px;
+  padding-top: 00px;
   padding-right: 2px;
   padding-left: 2px;
   padding-bottom: 5px;
   margin-left: 7px;
   margin-right: 7px;
-  border-bottom: 2px solid #4c9cf1;
+  border-bottom: 2px solid #8b7e6d;
   transition: color 0.3s ease;
 }
 
@@ -43,16 +43,16 @@ header {
 }
 
 header .blog-name {
-  width: 35%;
+  width: 46%;
   display: inline-block;
   text-align: left;
-  font-size: 18px;
+  font-size: 25px;
   font-family: "Lucida Console", Monaco, monospace;
-  padding-top: 10px;
+  padding-top: 0px;
 }
 
 header .blog-name a {
-  color: #a6a2a0;
+  color: #c64b36;
   text-decoration: none;
 }
 
@@ -65,24 +65,24 @@ header li a:hover {
   display: none;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 880px) {
   header {
-    padding-left: 6%;
-    padding-right: 6%;
+    padding-left: 0%;
+    padding-right: 0%;
   }
 }
 
-@media (min-width: 481px) {
+@media (min-width: 881px) {
   header {
-    padding-left: 12.5%;
-    padding-right: 12.5%;
+    padding-left: 0%;
+    padding-right: 0%;
   }
 }
 
 /* wide display: enforce maximum width of header to match content */
 @media (min-width: 940px) {
   header {
-    width: 705px;
+    width: 905px;
     margin-left: auto;
     margin-right: auto;
   }

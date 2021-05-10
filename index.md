@@ -1,7 +1,7 @@
 @def title = "Felix Wechsler"
 @def tags = ["syntax", "code"]
 
-# Felix Wechsler 
+# About 
 
 
 <!-- raw html to allow a responsive row  -->
@@ -13,14 +13,13 @@
 </div>
 ~~~
 
+My name is Felix Wechsler and my passion is combining optics with computer science.
 
-I'm currently a photonics master student at the [Microscopy department of the Leibniz Institute of Photonic Technology in Jena](https://nanoimaging.de) and [K|Lens GmbH](https://www.k-lens.de/) under the joint supervision of [Rainer Heintzmann](https://sites.google.com/site/heintzmann/) and [Ivo Ihrke](http://manao.inria.fr/perso/~ihrke/wordpress/).
+I'm currently a master student at the [Microscopy department of the Leibniz Institute of Photonic Technology in Jena](https://nanoimaging.de) and [K|Lens GmbH](https://www.k-lens.de/) under the joint supervision of [Rainer Heintzmann](https://sites.google.com/site/heintzmann/) and [Ivo Ihrke](http://manao.inria.fr/perso/~ihrke/wordpress/).
 
-
-
-In 2019 I finished two bachelor's degrees in Physics and Informatics at the [Technical University of Munich](https://www.tum.de). My informatics thesis was about
+In 2019 I finished my bachelor's, one in Physics and one in Informatics at the [Technical University of Munich](https://www.tum.de). My informatics thesis was about
 [Light Field Microscopy](https://mediatum.ub.tum.de/1543570) at the [Computational Imaging and Inverse Problems research group](https://ciip.in.tum.de/).
-In physics I did theoretical and experimental [Schlieren and Shadowgraphy Imaging studies](https://felix.sumpi.org/bachelor_thesis_felix_wechsler_physics.pdf)at the [Max Planck Institute for Physics](https://www.mpp.mpg.de/forschung/neue-technologien/awake-beschleunigung-mit-plasmawellen) in preparation for the next generation AWAKE accelerator.
+<!-- In physics I did theoretical and experimental [Schlieren and Shadowgraphy Imaging studies](https://felix.sumpi.org/bachelor_thesis_felix_wechsler_physics.pdf) at the [Max Planck Institute for Physics](https://www.mpp.mpg.de/forschung/neue-technologien/awake-beschleunigung-mit-plasmawellen) in preparation for the next generation AWAKE accelerator. -->
 
 
 ## Current Projects 
@@ -29,10 +28,9 @@ In physics I did theoretical and experimental [Schlieren and Shadowgraphy Imagin
 
 
 
+##
 
 ~~~
-<br>
-<br>
 <div class="row">
   <div class="container" align="center">
     <a href="https://www.github.com/roflmaostc"><i class="fab fa-github fa-fw fa-2x"></i></a>
