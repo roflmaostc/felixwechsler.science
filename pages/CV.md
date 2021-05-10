@@ -25,9 +25,9 @@ Felix Wechsler, born 1995 in Germany
 * Thüringen Scholarship
     * Financial support during studies
 * Gold and silver medals at the IYPT as team captain and team leader
-* Several awards and national level of the physics and mathematics olympiad
+* Several awards at the national level of the physics and mathematics olympiad
     * 20th and 51th place at the national level of the physics olympiad
-    * Top 15 at the mathematics olympiad in bavaria
+    * Top 15 at the mathematics olympiad in Bavaria
 * Schülerpreis of the German Physical Society
     * awarded to only 10 pupils each year
 
