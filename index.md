@@ -31,10 +31,10 @@
 ~~~
 <div class="row">
   <div class="container" align="center">
-    <a href="https://www.github.com/roflmaostc"><i class="fab fa-github fa-fw fa-2x"></i></a>
-    <a href="https://scholar.google.de/citations?user=Mc9KWkgAAAAJ&hl=de&oi=ao"><i class="ai ai-google-scholar-square ai-2x"></i> </a>
-    <a href="https://www.linkedin.com/in/felix-wechsler-64319070/"><i class="fab fa-linkedin fa-2x fa-fw"></i> </a>
-    <a href="mailto:fxw+felixwechslerscience@mailbox.org"><i class="fa fa-envelope  fa-2x fa-fw"></i> </a>
+    <a target="_blank" href="https://www.github.com/roflmaostc"><i class="fab fa-github fa-fw fa-2x"></i></a>
+    <a target="_blank" href="https://scholar.google.de/citations?user=Mc9KWkgAAAAJ&hl=de&oi=ao"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+    <a target="_blank" href="https://www.linkedin.com/in/felix-wechsler-64319070/"><i class="fab fa-linkedin fa-2x fa-fw"></i></a>
+    <a target="_blank" href="mailto:fxw+felixwechslerscience@mailbox.org"><i class="fa fa-envelope  fa-2x fa-fw"></i></a>
   </div> 
 </div>
 ~~~
