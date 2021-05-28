@@ -31,6 +31,12 @@ Felix Wechsler, born 1995 in Germany
 * [Schülerpreis](https://www.dpg-physik.de/auszeichnungen/dpg-preise/schuelerinnen-und-schuelerpreis/preistraeger) of the German Physical Society
     * awarded to only 10 pupils each year
 
+## Invited Talks
+### 2021
+* [6th NorMIC Imaging Workshop - Course in Advanced Light Microscopy and Image Processing](https://www.med.uio.no/ncmm/english/news-and-events/events/courses-and-workshops/2021/normic-imaging-workshop-course-in-advanced-light-m.html)
+    * Presenting Julia and tools suited for microscopy imaging like DeconvOptim.jl
+
+
 ## Misc
 * 2019 - today: Chairman of the [Orpheus e.V.](https://www.orpheus-verein.de/de/)
     * Responsible for managing the society and organizing seminars about physics with 200 participants.
