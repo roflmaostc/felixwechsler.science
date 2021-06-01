@@ -11,9 +11,9 @@
     <img src="assets/Felix_Wechsler_2020s.JPG">
   </div>
   <div class="column right">
-    <p>My name is Felix Wechsler and my passion is combining optics with computer science.</p>
+    My name is Felix Wechsler and my passion is combining optics with computer science.
 <p  >I&#39;m currently a master's student at the <a href="https://nanoimaging.de">Microscopy department of the Leibniz Institute of Photonic Technology in Jena (Germany)</a> and <a href="https://www.k-lens.de/">K|Lens GmbH</a> under the joint supervision of <a href="https://sites.google.com/site/heintzmann/">Rainer Heintzmann</a> and <a href="http://manao.inria.fr/perso/~ihrke/wordpress/">Ivo Ihrke</a>.</p>
-    <p>In my freetime I enjoy <a href="https://www.komoot.com/user/1717958844029">graveling by bike</a> and playing <a href="https://paradiscojena.de/wiki/HomePage">Ultimate Frisbee</a>.</p>
+    <p>In my freetime I enjoy <a href="https://www.komoot.com/user/1717958844029">graveling by bike</a> and playing <a href="https://paradiscojena.de/wiki/HomePage">Ultimate Frisbee</a>. Besides that I serve as Chairman of <a href="https://www.orpheus-verein.de/de/">Orpheus e.V.</a> which is a registered association organizing seminars as preparation for pupils participating at the physics olympiad. 
   </div>
 </div>
 ~~~
