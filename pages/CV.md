@@ -34,7 +34,7 @@ Felix Wechsler, born 1995 in Germany
 ## Invited Talks
 ### 2021
 * [6th NorMIC Imaging Workshop - Course in Advanced Light Microscopy and Image Processing](https://www.med.uio.no/ncmm/english/news-and-events/events/courses-and-workshops/2021/normic-imaging-workshop-course-in-advanced-light-m.html)
-    * Presenting Julia and tools suited for microscopy imaging like DeconvOptim.jl
+    * Presenting Julia and tools suited for microscopy imaging like DeconvOptim.jl. [Link to Material](https://github.com/bionanoimaging/Introduction_Image_Processing_Julia).
 
 
 ## Misc

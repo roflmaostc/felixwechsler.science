@@ -7,5 +7,10 @@
     * [FourierTools.jl](https://github.com/bionanoimaging/FourierTools.jl/)
     * [IndexFunArrays.jl](https://github.com/bionanoimaging/IndexFunArrays.jl)
 
+
+## [6th NorMIC Imaging Workshop - Course in Advanced Light Microscopy and Image Processing](https://www.med.uio.no/ncmm/english/news-and-events/events/courses-and-workshops/2021/normic-imaging-workshop-course-in-advanced-light-m.html)
+* Presenting Julia and tools suited for microscopy imaging like DeconvOptim.jl. [Link to Material](https://github.com/bionanoimaging/Introduction_Image_Processing_Julia).
+
+
 ## Master's Thesis (November 2020)
 * I recently started my master's thesis at the IPHT in Jena in collaboration with [K|Lens](https://www.k-lens.de/).
