@@ -20,14 +20,12 @@ Felix Wechsler, born 1995 in Germany
 * 2014 - 2016: Working student at the [Leibniz Supercomputing Centre, Garching](https://www.lrz.de/)
 
 ## Honours
+* [Deutschlandstipendium](https://www.deutschlandstipendium.de/de/english-1700.html) with partial funding of the [Carl Zeiss Foundation](https://www.carl-zeiss-stiftung.de/english/index.html).
 * [Honours Programme](https://www.uni-jena.de/wissenschaftliche+karriere/forschungsorientiertes+studium/honours-programm+f%C3%BCr+forschungsorientierte+studierende/aufnahmejahrgang+2020) of the University of Jena
     * Research grant and personal support for an optical inverse modeling framework. Awarded by the Friedrich Schiller University to only 0.4% of the students.
-* Thüringen Scholarship
-    * Financial support during studies
-* Gold and silver medals at the [IYPT](https://www.iypt.org) as team captain and team leader
+* Thüringen Scholarship.
+* Gold and silver medals at the [IYPT](https://www.iypt.org) as team captain and team leader.
 * Several awards at the national level of the [physics](https://www.scienceolympiaden.de/ipho) and [mathematics olympiad](https://www.mo-by.de/)
-    * 20th and 51th place at the national level of the physics olympiad
-    * Top 15 at the mathematics olympiad in Bavaria
 * [Schülerpreis](https://www.dpg-physik.de/auszeichnungen/dpg-preise/schuelerinnen-und-schuelerpreis/preistraeger) of the German Physical Society
     * awarded to only 10 pupils each year
 
