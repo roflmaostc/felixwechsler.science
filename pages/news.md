@@ -1,10 +1,9 @@
 # News
 
-
 ## JuliaCon 2021
 * We got three talks accepted at the JuliaCon! The videos will be uploaded to YouTube in August.
-    * [DeconvOptim.jl](https://github.com/roflmaostc/DeconvOptim.jl)
-    * [FourierTools.jl](https://github.com/bionanoimaging/FourierTools.jl/)
+    * [DeconvOptim.jl](https://github.com/roflmaostc/DeconvOptim.jl), video [here](https://www.youtube.com/watch?v=FodpnOhccis)
+    * [FourierTools.jl](https://github.com/bionanoimaging/FourierTools.jl/), video [here](https://www.youtube.com/watch?v=qYgJDb_Ko2E)
     * [IndexFunArrays.jl](https://github.com/bionanoimaging/IndexFunArrays.jl)
 
 
