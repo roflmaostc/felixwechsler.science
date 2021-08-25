@@ -14,24 +14,33 @@ Felix Wechsler, born 1995 in Germany
 * 2020 - 2021: Working student microsystems engineer at [K|Lens](https://www.k-lens.de/)
 * 2019 - 2020: Working student in the field of machine learning at [ICO-LUX](https://ico-lux.de/)
 * 2019 - 2019: Working student [Max Planck Institute for Physics](https://www.mpp.mpg.de/forschung/neue-technologien/awake-beschleunigung-mit-plasmawellen)
-* 2016 - 2019: Several times being teaching assistant in the subjects *Functional Programming and Verification* and *Basic Lab Course*
 * 2014 - 2017: Supervisor of the German team at the [International Young Physicists' Tournament (IYPT)](https://www.iypt.org/)
     * My part was to organize the [GYPT](https://gypt.org/) and train pupils for the IYPT. 
 * 2014 - 2016: Working student at the [Leibniz Supercomputing Centre, Garching](https://www.lrz.de/)
 
+## Teaching Experience
+* Winter Term 2021/22: Teaching Assistant for newly created course "Imaging Processing for Microscopy with Julia"
+    * I was responsible for creating the Julia exercises and correcting homework
+* 2017 - 2019: Teaching Assistant (Functional Programming and Verification; Basic Lab Course)
+* 2019: Course Instructor to teach Haskell to grammar school students at [Deutsche Junior Akademie](https://www.deutsche-juniorakademien.de/)
+* 2012 - today: Preparing students for the Physics Olympiad ([Orpheus e.V.](https://www.orpheus-verein.de/)) 
+* 2014 - 2017: Preparing students for the [International Young Physicists' Tournament](https://www.iypt.org)
+
 ## Honours
-* [Deutschlandstipendium](https://www.deutschlandstipendium.de/de/english-1700.html) with partial funding of the [Carl Zeiss Foundation](https://www.carl-zeiss-stiftung.de/english/index.html).
-* [Honours Programme](https://www.uni-jena.de/wissenschaftliche+karriere/forschungsorientiertes+studium/honours-programm+f%C3%BCr+forschungsorientierte+studierende/aufnahmejahrgang+2020) of the University of Jena
+* 2021 - 2024: [Max Planck School of Photonics](https://photonics.maxplanckschools.org/en/home): Full Research PhD Position 
+* 2021: [Deutschlandstipendium](https://www.deutschlandstipendium.de/de/english-1700.html) with partial funding of the [Carl Zeiss Foundation](https://www.carl-zeiss-stiftung.de/english/index.html).
+* 2020 - 2021: [Honours Programme](https://www.uni-jena.de/wissenschaftliche+karriere/forschungsorientiertes+studium/honours-programm+f%C3%BCr+forschungsorientierte+studierende/aufnahmejahrgang+2020) of the University of Jena
     * Research grant (2.000€) for an optical inverse modeling framework. Awarded by the Friedrich Schiller University to only 0.4% of the students.
-* Thüringen Scholarship.
-* Gold and silver medals at the [IYPT](https://www.iypt.org) as team captain and team leader.
-* Several awards at the national level of the [physics](https://www.scienceolympiaden.de/ipho) and [mathematics olympiad](https://www.mo-by.de/)
-* [Schülerpreis](https://www.dpg-physik.de/auszeichnungen/dpg-preise/schuelerinnen-und-schuelerpreis/preistraeger) of the German Physical Society
+* 2019 - 2020: Thüringen Scholarship.
+* 2014, 2016: Gold and silver medals at the [IYPT](https://www.iypt.org) as team captain and team leader.
+* 2012 - 2014: Several awards at the national level of the [physics](https://www.scienceolympiaden.de/ipho) and [mathematics olympiad](https://www.mo-by.de/)
+* 2014: [Schülerpreis](https://www.dpg-physik.de/auszeichnungen/dpg-preise/schuelerinnen-und-schuelerpreis/preistraeger) of the German Physical Society
     * awarded to only 10 pupils each year
 
 ## Software 
-* [DeconvOptim.jl](https://github.com/roflmaostc/DeconvOptim.jl) for multi dimensional image deconvolution for both CPUs and GPUs
-* [FourierTools.jl](https://github.com/bionanoimaging/FourierTools.jl/) for efficient working with Fourier space
+* [DeconvOptim.jl:](https://github.com/roflmaostc/DeconvOptim.jl) for multi dimensional image deconvolution for both CPUs and GPUs
+* [FourierTools.jl:](https://github.com/bionanoimaging/FourierTools.jl/) for efficient working with Fourier space
+* [orpheuscc:](https://www.orpheus-verein.de) Django web application to manage seminars and activities of the Orpheus e.V.
 * Several other toolboxes written in Julia Lang can be found on [GitHub](https://github.com/roflmaostc/) 
 
 
@@ -51,4 +60,4 @@ Felix Wechsler, born 1995 in Germany
 * 2014 - today: Supervisor and Juror at the [GYPT](https://gypt.org/)
     * Guiding pupils during preparation. Support as juror in regional and final stages.
 * 2014 - 2019: [Student Council](https://mpi.fs.tum.de/), member of the department council, speaker of physics and computer science year
-    * Highest student representative in the department of Informatics representing > 5000 students.
+    * Highest student representative in the department of Informatics representing >5000 students.
