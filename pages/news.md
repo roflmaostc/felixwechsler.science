@@ -1,5 +1,9 @@
 # News
 
+## PhD Position (September 2021)
+* Happy to announce that I'm accepted for the PhD program of the [Max Planck School of Photonics](https://www.maxplanckschools.org/photonics-en). My PhD position is at the [Leibniz Institute of Photonic Technology](https://www.leibniz-ipht.de/en/homepage/) in the [Bio-Nanoimaging group of Prof. Rainer Heintzmann](https://nanoimaging.de/).
+
+
 ## JuliaCon 2021
 * We got three talks accepted at the JuliaCon! The videos will be uploaded to YouTube in August.
     * [DeconvOptim.jl](https://github.com/roflmaostc/DeconvOptim.jl), video [here](https://www.youtube.com/watch?v=FodpnOhccis)

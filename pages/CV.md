@@ -11,6 +11,7 @@ Felix Wechsler, born 1995 in Germany
 
 
 ## Work
+* 2021 - 2024: PhD student  at the [IPHT Jena](https://www.leibniz-ipht.de/en/homepage/) in the [Bio-Nanoimaging group of Prof. Rainer Heintzmann](https://nanoimaging.de/)
 * 2020 - 2021: Working student microsystems engineer at [K|Lens](https://www.k-lens.de/)
 * 2019 - 2020: Working student in the field of machine learning at [ICO-LUX](https://ico-lux.de/)
 * 2019 - 2019: Working student [Max Planck Institute for Physics](https://www.mpp.mpg.de/forschung/neue-technologien/awake-beschleunigung-mit-plasmawellen)
