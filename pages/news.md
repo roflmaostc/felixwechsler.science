@@ -1,7 +1,7 @@
 # News
 
 ## PhD Position (September 2021)
-* Happy to announce that I'm accepted for the PhD program of the [Max Planck School of Photonics](https://www.maxplanckschools.org/photonics-en). My PhD position is at the [Leibniz Institute of Photonic Technology](https://www.leibniz-ipht.de/en/homepage/) in the [Bio-Nanoimaging group of Prof. Rainer Heintzmann](https://nanoimaging.de/).
+* Happy to announce that I'm accepted (from 1. December 2021) for the PhD program of the [Max Planck School of Photonics](https://www.maxplanckschools.org/photonics-en). My PhD position is at the [Leibniz Institute of Photonic Technology](https://www.leibniz-ipht.de/en/homepage/) in the [Bio-Nanoimaging group of Prof. Rainer Heintzmann](https://nanoimaging.de/).
 
 
 ## JuliaCon 2021
