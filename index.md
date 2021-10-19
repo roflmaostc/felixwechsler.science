@@ -12,7 +12,7 @@
   </div>
   <div class="column right">
     My name is Felix Wechsler and my passion is combining optics with computer science.
-<p  >I&#39;m currently a master's student at the <a href="https://nanoimaging.de">Microscopy department of the Leibniz Institute of Photonic Technology in Jena (Germany)</a> and <a href="https://www.k-lens.de/">K|Lens GmbH</a> under the joint supervision of <a href="https://sites.google.com/site/heintzmann/">Rainer Heintzmann</a> and <a href="http://manao.inria.fr/perso/~ihrke/wordpress/">Ivo Ihrke</a>.</p>
+<p  >I&#39;m currently a master's student at the <a href="https://nanoimaging.de">Microscopy department of the Leibniz Institute of Photonic Technology in Jena (Germany)</a> and <a href="https://www.k-lens.de/">K|Lens GmbH</a> under the joint supervision of <a href="https://sites.google.com/site/heintzmann/">Rainer Heintzmann</a> and <a href="https://www.cse.eti.uni-siegen.de/research/">Ivo Ihrke</a>.</p>
     <p>In my freetime I enjoy <a href="https://www.komoot.com/user/1717958844029">graveling by bike</a> and playing <a href="https://paradiscojena.de/wiki/HomePage">Ultimate Frisbee</a>. Besides that I serve as Chairman of <a href="https://www.orpheus-verein.de/de/">Orpheus e.V.</a> which is a registered association organizing seminars as preparation for pupils participating at the physics olympiad. 
   </div>
 </div>
@@ -20,6 +20,7 @@
 
 
 # News
+* I'm currently at Duke University as an independent researcher in the lab of [Roarke Horstmeyer](https://horstmeyer.pratt.duke.edu/). Furthermore, I'm working on a collaboration between the [IPHT](https://www.leibniz-ipht.de/) and [Ramona Optics](https://www.ramonaoptics.com/).
 * Happy to announce that I'm accepted (from 1. December 2021) for the PhD program of the [Max Planck School of Photonics](https://www.maxplanckschools.org/photonics-en). My PhD position is at the [Leibniz Institute of Photonic Technology](https://www.leibniz-ipht.de/en/homepage/) in the [Bio-Nanoimaging group of Prof. Rainer Heintzmann](https://nanoimaging.de/).
 
 

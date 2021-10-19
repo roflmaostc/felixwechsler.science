@@ -1,5 +1,8 @@
 # News
 
+## Duke University and Ramona Optics (October 2021 - December 2021)
+* I'm currently at Duke University as an independent researcher in the lab of [Roarke Horstmeyer](https://horstmeyer.pratt.duke.edu/). Furthermore, I'm working on a collaboration between the [IPHT](https://www.leibniz-ipht.de/) and [Ramona Optics](https://www.ramonaoptics.com/).
+
 ## PhD Position (September 2021)
 * Happy to announce that I'm accepted (from 1. December 2021) for the PhD program of the [Max Planck School of Photonics](https://www.maxplanckschools.org/photonics-en). My PhD position is at the [Leibniz Institute of Photonic Technology](https://www.leibniz-ipht.de/en/homepage/) in the [Bio-Nanoimaging group of Prof. Rainer Heintzmann](https://nanoimaging.de/).
 
