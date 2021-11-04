@@ -12,7 +12,7 @@ Felix Wechsler, born 1995 in Germany
 
 
 ## Work
-* 2021 - ongoing: Research rellow at the [IPHT Jena](https://www.leibniz-ipht.de/en/homepage/) in the [Bio-Nanoimaging group of Prof. Rainer Heintzmann](https://nanoimaging.de/)
+* 2021 - ongoing: Research fellow at the [IPHT Jena](https://www.leibniz-ipht.de/en/homepage/) in the [Bio-Nanoimaging group of Prof. Rainer Heintzmann](https://nanoimaging.de/)
 * 2021: Independent researcher at [Duke University](https://bme.duke.edu/) in the lab of [Roarke Horstmeyer](https://horstmeyer.pratt.duke.edu/)
 * 2021: Collaboration with [Ramona Optics](https://www.ramonaoptics.com/) 
 * 2020 - 2021: Working student microsystems engineer at [K|Lens](https://www.k-lens.de/)
@@ -23,9 +23,9 @@ Felix Wechsler, born 1995 in Germany
 * 2014 - 2016: Working student at the [Leibniz Supercomputing Centre, Garching](https://www.lrz.de/)
 
 ## Teaching Experience
-* Winter Term 2021/22: Teaching Assistant for newly created course "Imaging Processing for Microscopy with Julia"
+* Winter Term 2021/22: Teaching assistant for newly created course ["Imaging Processing for Microscopy with Julia"](https://github.com/bionanoimaging/Image-Processing-In-Microscopy)
     * I was responsible for creating the Julia exercises and correcting homework
-* 2017 - 2019: Teaching Assistant (Functional Programming and Verification; Basic Lab Course)
+* 2017 - 2019: Teaching assistant (Functional Programming and Verification; Basic Lab Course)
 * 2019: Course Instructor to teach Haskell to grammar school students at [Deutsche Junior Akademie](https://www.deutsche-juniorakademien.de/)
 * 2012 - today: Preparing students for the Physics Olympiad ([Orpheus e.V.](https://www.orpheus-verein.de/)) 
 * 2014 - 2017: Preparing students for the [International Young Physicists' Tournament](https://www.iypt.org)
