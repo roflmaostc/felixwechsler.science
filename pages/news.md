@@ -1,5 +1,8 @@
 # News
 
+## PhD Position in Jena (December 2021)
+* Officially, I started my PhD position in Jena at the [Leibniz IPHT](https://www.leibniz-ipht.de/). If you're in Jena, I would be happy to welcome you! Just contact me!
+
 ## Duke University and Ramona Optics (October 2021 - December 2021)
 * I'm currently at Duke University as an independent researcher in the lab of [Roarke Horstmeyer](https://horstmeyer.pratt.duke.edu/). Furthermore, I'm working on a collaboration between the [IPHT](https://www.leibniz-ipht.de/) and [Ramona Optics](https://www.ramonaoptics.com/).
 
