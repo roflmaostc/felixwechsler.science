@@ -1,7 +1,11 @@
 # News
 
+## Teaching in Wintersemester 2021/2022
+* Teaching Image Processing for Microscopy with Julia, see [GitHub](https://github.com/bionanoimaging/Image-Processing-In-Microscopy) for more.
+
 ## PhD Position in Jena (December 2021)
 * Officially, I started my PhD position in Jena at the [Leibniz IPHT](https://www.leibniz-ipht.de/). If you're in Jena, I would be happy to welcome you! Just contact me!
+* Happy to announce that I'm accepted (from 1. December 2021) for the PhD program of the [Max Planck School of Photonics](https://www.maxplanckschools.org/photonics-en). My PhD position is at the [Leibniz Institute of Photonic Technology](https://www.leibniz-ipht.de/en/homepage/) in the [Bio-Nanoimaging group of Prof. Rainer Heintzmann](https://nanoimaging.de/).
 
 ## Duke University and Ramona Optics (October 2021 - December 2021)
 * I'm currently at Duke University as an independent researcher in the lab of [Roarke Horstmeyer](https://horstmeyer.pratt.duke.edu/). Furthermore, I'm working on a collaboration between the [IPHT](https://www.leibniz-ipht.de/) and [Ramona Optics](https://www.ramonaoptics.com/).
