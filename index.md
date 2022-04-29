@@ -20,17 +20,14 @@
 
 
 # News
-* My PhD position at the Leibniz IPHT started on 1st of December 2021!
-* I'm at Duke University as an independent researcher in the lab of [Roarke Horstmeyer](https://horstmeyer.pratt.duke.edu/). Furthermore, I'm working on a collaboration between the [IPHT](https://www.leibniz-ipht.de/) and [Ramona Optics](https://www.ramonaoptics.com/).
-* Happy to announce that I'm accepted (from 1. December 2021) for the PhD program of the [Max Planck School of Photonics](https://www.maxplanckschools.org/photonics-en). My PhD position is at the [Leibniz Institute of Photonic Technology](https://www.leibniz-ipht.de/en/homepage/) in the [Bio-Nanoimaging group of Prof. Rainer Heintzmann](https://nanoimaging.de/).
-
+* The University of Jena awarded us with [*Fakultätspreis*](https://www.physik.uni-jena.de/forschung/wissenschaftlicher-nachwuchs/fakultaetspreise/fakultaetspreise-rohde-schwarz) for the best master thesis. The title is *Kaleidomicroscope - A Kaleidoscopic Multiview Microscope*. 
+* Lukas Haßfurth started his master thesis on *Spatially Varying Deconvolution* in our group.
 
 
 ## Current Projects 
 * Single Molecule Localization 
+* Spatially Varying Deconvolution
 * Conventional Ptychography (Software and Hardware)
-* Teaching Image Processing for Microscopy with Julia, see [GitHub](https://github.com/bionanoimaging/Image-Processing-In-Microscopy) for more.
-
 
 
 ##
