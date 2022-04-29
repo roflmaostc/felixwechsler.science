@@ -20,7 +20,7 @@
 
 
 # News
-* The University of Jena awarded us with [*Fakultätspreis*](https://www.physik.uni-jena.de/forschung/wissenschaftlicher-nachwuchs/fakultaetspreise/fakultaetspreise-rohde-schwarz) for the best master thesis. The title is *Kaleidomicroscope - A Kaleidoscopic Multiview Microscope*. 
+* The University of Jena awarded us with [*Faculty Award*](https://www.physik.uni-jena.de/en/research/junior-scientists/faculty-awards/faculty-awards-rohde-schwarz) for the best master thesis. The title is *Kaleidomicroscope - A Kaleidoscopic Multiview Microscope*. 
 * Lukas Haßfurth started his master thesis on *Spatially Varying Deconvolution* in our group.
 
 

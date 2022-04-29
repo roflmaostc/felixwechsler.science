@@ -31,6 +31,7 @@ Felix Wechsler, born 1995 in Germany
 * 2014 - 2017: Preparing students for the [International Young Physicists' Tournament](https://www.iypt.org)
 
 ## Honours
+* 2022: [*Faculty Award*](https://www.physik.uni-jena.de/en/research/junior-scientists/faculty-awards/faculty-awards-rohde-schwarz) for the best master thesis at [University of Jena](https://www.uni-jena.de/) 
 * 2021 - 2024: [Max Planck School of Photonics](https://photonics.maxplanckschools.org/en/home): Full Research PhD Position 
 * 2021: [Deutschlandstipendium](https://www.deutschlandstipendium.de/de/english-1700.html) with partial funding of the [Carl Zeiss Foundation](https://www.carl-zeiss-stiftung.de/english/index.html)
 * 2020 - 2021: [Honours Programme](https://www.uni-jena.de/wissenschaftliche+karriere/forschungsorientiertes+studium/honours-programm+f%C3%BCr+forschungsorientierte+studierende/aufnahmejahrgang+2020) of the University of Jena
