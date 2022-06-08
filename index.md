@@ -20,6 +20,7 @@
 
 
 # News
+* Part I of *Introduction to Fourier Ptychography* was published. See [here](https://doi.org/10.1017/S1551929522000670).   
 * The University of Jena awarded us with the [*Faculty Award*](https://www.physik.uni-jena.de/en/research/junior-scientists/faculty-awards/faculty-awards-rohde-schwarz) for the best master thesis. The title is *Kaleidomicroscope - A Kaleidoscopic Multiview Microscope*. 
 * Lukas Haßfurth started his master thesis on *Spatially Varying Deconvolution* in our group.
 
