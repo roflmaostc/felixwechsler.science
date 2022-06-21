@@ -1,5 +1,8 @@
 # News
 
+## Master Thesis March 2022
+* Lukas Haßfurth started his master thesis on *Spatially Varying Deconvolution* in our group.
+
 ## Teaching in Wintersemester 2021/2022
 * Teaching Image Processing for Microscopy with Julia, see [GitHub](https://github.com/bionanoimaging/Image-Processing-In-Microscopy) for more.
 
