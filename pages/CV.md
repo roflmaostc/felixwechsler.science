@@ -2,7 +2,7 @@
 Felix Wechsler, born 1995 in Germany
 
 ## Education
-* 2021 - ongoing: Doctoral candidate at the [Friedich Schiller University of Jena](https://www.physik.uni-jena.de/en/research) under the supervision of [Prof. Rainer Heintzmann](https://nanoimaging.de/)
+* 2022 - ongoing: Doctoral candidate at the [Friedich Schiller University of Jena](https://www.physik.uni-jena.de/en/research) under the supervision of [Prof. Rainer Heintzmann](https://nanoimaging.de/)
 * 2019 - 2021: Master's degree in Photonics at [Friedich Schiller University of Jena](https://www.physik.uni-jena.de/en/research)
     * Master's thesis is about a kaleidoscopic multiview microscope at the [Microscopy department of the Leibniz Institute of Photonic Technology in Jena](https://nanoimaging.de) and [K|Lens GmbH](https://www.k-lens.de/) under the joint supervision of [Rainer Heintzmann](https://sites.google.com/site/heintzmann/) and [Ivo Ihrke](https://www.cse.eti.uni-siegen.de/research/)
 * 2014 - 2019: Bachelor's degree in Physics at [Technical University of Munich](https://www.ph.tum.de/)
