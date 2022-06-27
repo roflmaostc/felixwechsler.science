@@ -23,6 +23,7 @@ Felix Wechsler, born 1995 in Germany
 * 2014 - 2016: Working student at the [Leibniz Supercomputing Centre, Garching](https://www.lrz.de/)
 
 ## Teaching Experience
+* 2022: Course Instructor *Deep Recyling - Deep Learning for Trash Detection* at [Deutsche Schülerakademie](https://www.schuelerakademien.de/programm/kurs?tx_ewacademy_coursedetail%5Bcontroller%5D=Course&tx_ewacademy_coursedetail%5Bcourse%5D=4237&cHash=44e87147edb92f796f5b422f13a3553e)
 * Winter Term 2021/22: Teaching assistant for newly created course ["Imaging Processing for Microscopy with Julia"](https://github.com/bionanoimaging/Image-Processing-In-Microscopy)
     * I was responsible for creating the Julia exercises and correcting homework
 * 2017 - 2019: Teaching assistant (Functional Programming and Verification; Basic Lab Course)
@@ -31,6 +32,7 @@ Felix Wechsler, born 1995 in Germany
 * 2014 - 2017: Preparing students for the [International Young Physicists' Tournament](https://www.iypt.org)
 
 ## Honours
+* 2022: Award for the best master thesis at [Leibniz IPHT](https://www.leibniz-ipht.de/en/news/)
 * 2022: [*Faculty Award*](https://www.physik.uni-jena.de/en/research/junior-scientists/faculty-awards/faculty-awards-rohde-schwarz) for the best master thesis at [University of Jena](https://www.uni-jena.de/) 
 * 2021 - 2024: [Max Planck School of Photonics](https://photonics.maxplanckschools.org/en/home): Full Research PhD Position 
 * 2021: [Deutschlandstipendium](https://www.deutschlandstipendium.de/de/english-1700.html) with partial funding of the [Carl Zeiss Foundation](https://www.carl-zeiss-stiftung.de/english/index.html)
@@ -50,6 +52,9 @@ Felix Wechsler, born 1995 in Germany
 
 
 ## Talks
+### 2022
+* Talk at the Ptychography workshop organized by [Lars Loetgering](https://sites.google.com/fulbrightmail.org/phasespace)
+
 ### 2021
 * [6th NorMIC Imaging Workshop - Course in Advanced Light Microscopy and Image Processing](https://www.med.uio.no/ncmm/english/news-and-events/events/courses-and-workshops/2021/normic-imaging-workshop-course-in-advanced-light-m.html)
     * Presenting Julia and tools suited for microscopy imaging like DeconvOptim.jl. [Link to Material](https://github.com/bionanoimaging/Introduction_Image_Processing_Julia)
