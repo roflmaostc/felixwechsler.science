@@ -20,10 +20,13 @@
 
 
 # News
-* We are presenting [PSFs.jl](https://github.com/RainerHeintzmann/PSFs.jl) and [PtyLab.jl](https://github.com/roflmaostc/PtyLab.jl) at the upcoming [JuliaCon](https://juliacon.org/2022/).
+
+* We received the [Applied Photonics Award (2000€)](https://www.applied-photonics-award.de/) on our work on the Kaleidomicroscope!
 * The Leibniz IPHT awarded us with the award for the best master thesis!
+* We are presenting [PSFs.jl](https://github.com/RainerHeintzmann/PSFs.jl) and [PtyLab.jl](https://github.com/roflmaostc/PtyLab.jl) at the upcoming [JuliaCon](https://juliacon.org/2022/).
+* The Leibniz IPHT awarded us with the award for the best master thesis (500€)!
 * Part I of *Introduction to Fourier Ptychography* was published. See [here](https://doi.org/10.1017/S1551929522000670).   
-* The University of Jena awarded us with the [*Faculty Award*](https://www.physik.uni-jena.de/en/research/junior-scientists/faculty-awards/faculty-awards-rohde-schwarz) for the best master thesis. The title is *Kaleidomicroscope - A Kaleidoscopic Multiview Microscope*. 
+* The University of Jena awarded us with the [*Faculty Award* (1000€)](https://www.physik.uni-jena.de/en/research/junior-scientists/faculty-awards/faculty-awards-rohde-schwarz) for the best master thesis. The title is *Kaleidomicroscope - A Kaleidoscopic Multiview Microscope*. 
 
 
 ## Current Projects 
