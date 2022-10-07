@@ -8,7 +8,7 @@
 ~~~
 <div class="row">
   <div class="column left">
-    <img src="assets/Felix_Wechsler_2020s.JPG">
+    <img src="assets/Felix_Wechsler_2022s.JPG">
   </div>
   <div class="column right">
     My name is Felix Wechsler and my passion is combining optics with computer science.
@@ -20,20 +20,16 @@
 
 
 # News
-
-* We received the [Applied Photonics Award (2000€)](https://www.applied-photonics-award.de/) on our work on the Kaleidomicroscope!
-* The Leibniz IPHT awarded us with the award for the best master thesis!
-* We are presenting [PSFs.jl](https://github.com/RainerHeintzmann/PSFs.jl) and [PtyLab.jl](https://github.com/roflmaostc/PtyLab.jl) at the upcoming [JuliaCon](https://juliacon.org/2022/).
-* The Leibniz IPHT awarded us with the award for the best master thesis (500€)!
-* Part I of *Introduction to Fourier Ptychography* was published. See [here](https://doi.org/10.1017/S1551929522000670).   
-* The University of Jena awarded us with the [*Faculty Award* (1000€)](https://www.physik.uni-jena.de/en/research/junior-scientists/faculty-awards/faculty-awards-rohde-schwarz) for the best master thesis. The title is *Kaleidomicroscope - A Kaleidoscopic Multiview Microscope*. 
+* A short proceeding paper about the [Kaleidomicroscope](https://opg.optica.org/abstract.cfm?uri=COSI-2022-CTu4F.5) was published by Optica.
+* We received the [Applied Photonics Award (2000€)](https://www.iof.fraunhofer.de/de/presse-medien/pressemitteilungen/2022/applied-photonics-award-2022-verliehen.html) on our work on the Kaleidomicroscope!
+* Part II of *Introduction to Fourier Ptychography* was published. See [here](https://doi.org/10.1017/S1551929522001055).
 
 
 ## Current Projects 
 * Single Molecule Localization 
 * Spatially Varying Deconvolution
 * Wavefront sensing
-* Conventional Ptychography (Software and Hardware)
+* Ptychography (Software and Hardware)
 
 
 ##
