@@ -12,7 +12,7 @@
   </div>
   <div class="column right">
     My name is Felix Wechsler and my passion is combining optics with computer science.
-<p  >I&#39;m currently a PhD student at the <a href="https://nanoimaging.de">Microscopy department of the Leibniz IPHT</a> in Jena (Germany) under the supervision of <a href="https://sites.google.com/site/heintzmann/">Rainer Heintzmann</a>. Furthermore, I'm supported by the <a href="http://photonics.school/">Max Planck School of Photonics</a>.
+<p  >I&#39;m currently a scientific assistant at the <a href="https://nanoimaging.de">Microscopy department of the Leibniz IPHT</a> in Jena (Germany) under the supervision of <a href="https://sites.google.com/site/heintzmann/">Rainer Heintzmann</a>. Furthermore, I'm supported by the <a href="http://photonics.school/">Max Planck School of Photonics</a>.
     <p>In my freetime I enjoy <a href="https://www.strava.com/athletes/100197734">graveling by bike</a> and playing <a href="https://paradiscojena.de/wiki/HomePage">Ultimate Frisbee</a>. Besides that I serve as Chairman of <a href="https://www.orpheus-verein.de/de/">Orpheus e.V.</a> which is a registered association organizing seminars as preparation for pupils participating at the physics olympiad. 
   </div>
 </div>
