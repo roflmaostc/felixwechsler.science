@@ -2,6 +2,7 @@
 Felix Wechsler, born 1995 in Germany
 
 ## Education
+* 2023 - : Incoming PhD student at [EPFL](https://www.epfl.ch/labs/lapd/) to Laboratory of Applied Photonics Devices led by [Christophe Moser](https://people.epfl.ch/christophe.moser?lang=en)
 * 2021: Visiting Scientist at [Duke University](https://bme.duke.edu/) in the lab of [Roarke Horstmeyer](https://horstmeyer.pratt.duke.edu/)
 * 2019 - 2021: Master's degree in Photonics at [Friedich Schiller University of Jena](https://www.physik.uni-jena.de/en/research)
     * Master's thesis is about a kaleidoscopic multiview microscope at the [Microscopy department of the Leibniz Institute of Photonic Technology in Jena](https://nanoimaging.de) and [K|Lens GmbH](https://www.k-lens.de/) under the joint supervision of [Rainer Heintzmann](https://sites.google.com/site/heintzmann/) and [Ivo Ihrke](https://www.cse.eti.uni-siegen.de/research/)
@@ -12,7 +13,7 @@ Felix Wechsler, born 1995 in Germany
 
 
 ## Work
-* 2021 - ongoing: Research fellow at the [IPHT Jena](https://www.leibniz-ipht.de/en/homepage/) in the [Bio-Nanoimaging group of Prof. Rainer Heintzmann](https://nanoimaging.de/)
+* 2021 - 2022: Research fellow at the [IPHT Jena](https://www.leibniz-ipht.de/en/homepage/) in the [Bio-Nanoimaging group of Prof. Rainer Heintzmann](https://nanoimaging.de/)
 * 2021: Collaboration with [Ramona Optics](https://www.ramonaoptics.com/) 
 * 2020 - 2021: Working student microsystems engineer at [K|Lens](https://www.k-lens.de/)
 * 2019 - 2020: Working student in the field of machine learning at [ICO-LUX](https://ico-lux.de/)
