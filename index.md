@@ -41,7 +41,7 @@
     <a target="_blank" href="https://scholar.google.de/citations?user=Mc9KWkgAAAAJ&hl=de&oi=ao"> <i class="ai ai-google-scholar-square ai-2x"></i></a>
     <a target="_blank" href="https://www.linkedin.com/in/felix-wechsler-64319070/"><i class="fab fa-linkedin fa-2x fa-fw"></i></a>
     <a target="_blank" href="https://mailhide.io/e/Un5Rkdt7"><i class="fa fa-envelope fa-2x fa-fw"></i></a>
-    <a target="_blank" href="https://www.instagram.com/efixwe/"><i class="fa fa-instagram fa-2x fa-fw"></i></a>
+    <a target="_blank" href="https://www.instagram.com/"><i class="fa fa-instagram fa-2x fa-fw"></i></a>
   </div> 
 </div>
 ~~~
