@@ -1,10 +1,10 @@
 # CV
-Felix Wechsler, born 1995 in Germany
+Felix Wechsler, born in Germany
 
 ## Education
-* 2023 - : Incoming PhD student at [EPFL](https://www.epfl.ch/labs/lapd/), Laboratory of Applied Photonics Devices led by [Christophe Moser](https://people.epfl.ch/christophe.moser?lang=en)
+* 2023 - ongoing: PhD student at [EPFL](https://www.epfl.ch/labs/lapd/), Laboratory of Applied Photonics Devices led by [Christophe Moser](https://people.epfl.ch/christophe.moser?lang=en)
 * 2021: Visiting Scientist at [Duke University](https://bme.duke.edu/) in the lab of [Roarke Horstmeyer](https://horstmeyer.pratt.duke.edu/)
-* 2019 - 2021: Master's degree in Photonics at [Friedich Schiller University of Jena](https://www.physik.uni-jena.de/en/research)
+* 2019 - 2021: Master's degree in Photonics at [Friedrich Schiller University of Jena](https://www.physik.uni-jena.de/en/research)
     * Master's thesis is about a kaleidoscopic multiview microscope at the [Microscopy department of the Leibniz Institute of Photonic Technology in Jena](https://nanoimaging.de) and [K|Lens GmbH](https://www.k-lens.de/) under the joint supervision of [Rainer Heintzmann](https://sites.google.com/site/heintzmann/) and [Ivo Ihrke](https://www.cse.eti.uni-siegen.de/research/)
 * 2014 - 2019: Bachelor's degree in Physics at [Technical University of Munich](https://www.ph.tum.de/)
     * Thesis was about theoretical and experimental [Schlieren and Shadowgraphy Imaging studies](https://felix.sumpi.org/bachelor_thesis_felix_wechsler_physics.pdf) at the [Max Planck Institute for Physics](https://www.mpp.mpg.de/forschung/neue-technologien/awake-beschleunigung-mit-plasmawellen) in preparation for the next generation AWAKE accelerator
