@@ -1,9 +1,7 @@
 # Software
 
 Generally, I want to create sophisticated, well tested and documented software packages.
-The scientific community already created too many code snippets which have to be rewritten every few years.
-Let's change that!
-
+See my [GitHub](https://github.com/roflmaostc).
 
 At the moment I mainly develop packages written in [Julia](https://www.julialang.org).
 
@@ -14,3 +12,7 @@ At the moment I mainly develop packages written in [Julia](https://www.julialang
 * Several small packages. You can find them on [GitHub](https://github.com/roflmaostc).
 * [JuliaMicroscopy](https://github.com/JuliaMicroscopy)
 * [BioNanoimaging](https://github.com/bionanoimaging/)
+
+
+I had a short but intense Django+Python adventure to develop the webpage for [Orpheus e.V.](wwww.orpheus-verein.de).
+Also, in my undergrad I liked to code in [OCaml](https://github.com/roflmaostc/99-OCaml-Problems).

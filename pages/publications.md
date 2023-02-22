@@ -1,5 +1,8 @@
 # Publications
 
+## 2023
+* Loetgering, L., Du, M., Flaes, D. B., Aidukas, T., **Wechsler, F.**, Molina, D. S. P., ... & Witte, S. (2023). PtyLab. m/py/jl: a cross-platform, open-source inverse modeling toolbox for conventional and Fourier ptychography. arXiv preprint [arXiv:2301.06595](https://arxiv.org/abs/2301.06595).
+
 ## 2022
 * Aidukas, T., **Wechsler, F.**, Loetgering, L., Zhou, K., & Horstmeyer, R. (2022). Applications and Extensions of Fourier Ptychography. Microscopy Today, 30(6), 40-45. [doi:10.1017/S1551929522001298](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/775BCAA7142953570F3CFC96D9BE9FA6/S1551929522001298a.pdf/div-class-title-applications-and-extensions-of-fourier-ptychography-div.pdf)
  

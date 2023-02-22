@@ -1,12 +1,20 @@
 # News
 
+## PhD (Feburary 2023)
+* I moved to the EPFL in Lausanne, Switzerland. Shoot me a message if you're around!
+
+## PtyLab (January 2023) 
+* Checkout [our preprint](https://arxiv.org/abs/2301.06595) on PtyLab.m/py/jl for ptychography data reconstruction! 
+
+
 ## JuliaCon (July 2022)
 * We are presenting [PSFs.jl](https://github.com/RainerHeintzmann/PSFs.jl) and [PtyLab.jl](https://github.com/roflmaostc/PtyLab.jl) at the upcoming [JuliaCon](https://juliacon.org/2022/).
 
 
 ## Introduction to Fourier Ptychography
-* Part I of *Introduction to Fourier Ptychography* was published. See [here](https://doi.org/10.1017/S1551929522000670).   
+* Part III *Applications and Extensions of Fourier Ptychography* was published. See [here](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/775BCAA7142953570F3CFC96D9BE9FA6/S1551929522001298a.pdf/div-class-title-applications-and-extensions-of-fourier-ptychography-div.pdf).
 * Part II of *Introduction to Fourier Ptychography* was published. See [here](https://doi.org/10.1017/S1551929522001055).
+* Part I of *Introduction to Fourier Ptychography* was published. See [here](https://doi.org/10.1017/S1551929522000670).   
 
 
 ## Award for the Master Thesis
