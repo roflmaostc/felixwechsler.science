@@ -1,6 +1,7 @@
 # Publications
 
 ## 2023
+* Lars Loetgering, Mengqi Du, Dirk Boonzajer Flaes, Tomas Aidukas, **Felix Wechsler**, Daniel S. Penagos Molina, Max Rose, Antonios Pelekanidis, Wilhelm Eschen, Jürgen Hess, Thomas Wilhein, Rainer Heintzmann, Jan Rothhardt, and Stefan Witte, "PtyLab.m/py/jl: a cross-platform, open-source inverse modeling toolbox for conventional and Fourier ptychography," Opt. Express 31, 13763-13797 (2023). [Link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-9-13763&id=529026) 
 * Loetgering, L., Du, M., Flaes, D. B., Aidukas, T., **Wechsler, F.**, Molina, D. S. P., ... & Witte, S. (2023). PtyLab. m/py/jl: a cross-platform, open-source inverse modeling toolbox for conventional and Fourier ptychography. arXiv preprint [arXiv:2301.06595](https://arxiv.org/abs/2301.06595).
 
 ## 2022

@@ -13,14 +13,14 @@
   <div class="column right">
     My name is Felix Wechsler and my passion is combining optics with computer science (preferrably <a href="https://julialang.org/">Julia Lang</a>).
 <p  >Recently, I started as doctoral candidate at <a href="https://www.epfl.ch/labs/lapd/">EPFL in Lausanne</a> in the LAPD led by Christophe Moser.
-    <p>In my freetime I enjoy <a href="https://www.strava.com/athletes/100197734">graveling by bike</a> and playing <a href="https://paradiscojena.de/wiki/HomePage">Ultimate Frisbee</a>. Besides that I serve as Chairman of <a href="https://www.orpheus-verein.de/de/">Orpheus e.V.</a> which is a registered association organizing seminars as preparation for pupils participating at the physics olympiad. 
+    <p>In my freetime I enjoy <a href="https://www.strava.com/athletes/100197734">graveling by bike</a> and playing <a href="https://paradiscojena.de/wiki/HomePage">Ultimate Frisbee</a>. Besides I'm involved in <a href="https://www.orpheus-verein.de/de/">Orpheus e.V.</a> to prepare pupils participating at the physics competitions. Also, I engange myself in the <a href="https://www.epfl.ch/campus/associations/list/photonics/">EPC Photonics Chapter</a>. And I'm teaching at the <a href="https://jgw-ev.de/">sustainability camp</a> about AI & Recycling for talented pupils. 
   </div>
 </div>
 ~~~
 
 
 # News
-* Check out [our preprint](https://arxiv.org/abs/2301.06595) on PtyLab.m/py/jl for ptychography data reconstruction! 
+* Check out [this paper](https://opg.optica.org/oe/viewmedia.cfm?uri=oe-31-9-13763&html=true) on PtyLab.m/py/jl for ptychography data reconstruction! 
 * I moved to the EPFL in Lausanne, Switzerland. Shoot me a message if you're around!
 * Part III *Applications and Extensions of Fourier Ptychography* was published. See [here](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/775BCAA7142953570F3CFC96D9BE9FA6/S1551929522001298a.pdf/div-class-title-applications-and-extensions-of-fourier-ptychography-div.pdf).
 * A short proceeding paper about the [Kaleidomicroscope](https://opg.optica.org/abstract.cfm?uri=COSI-2022-CTu4F.5) was published by Optica.
@@ -29,7 +29,7 @@
 ## Current Projects 
 * Tomographic volumetric 3D printing
 * Optical Wave Propagation
-* Spatially Varying Deconvolution
+* Light Field Microscopy 
 * Ptychography (Software and Hardware)
 
 ##
