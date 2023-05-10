@@ -13,7 +13,8 @@
   <div class="column right">
     My name is Felix Wechsler and my passion is combining optics with computer science (preferrably <a href="https://julialang.org/">Julia Lang</a>).
 <p  >Recently, I started as doctoral candidate at <a href="https://www.epfl.ch/labs/lapd/">EPFL in Lausanne</a> in the LAPD led by Christophe Moser.
-    <p>In my freetime I enjoy <a href="https://www.strava.com/athletes/100197734">graveling by bike</a> and playing <a href="https://paradiscojena.de/wiki/HomePage">Ultimate Frisbee</a>. Besides I'm involved in <a href="https://www.orpheus-verein.de/de/">Orpheus e.V.</a> to prepare pupils participating at the physics competitions. Also, I engange myself in the <a href="https://www.epfl.ch/campus/associations/list/photonics/">EPC Photonics Chapter</a>. And I'm teaching at the <a href="https://jgw-ev.de/">sustainability camp</a> about AI & Recycling for talented pupils. 
+    <p>In my freetime I enjoy <a href="https://www.strava.com/athletes/100197734">graveling by bike</a> and playing <a href="https://paradiscojena.de/wiki/HomePage">Ultimate Frisbee</a>. Besides I'm involved in <a href="https://www.orpheus-verein.de/de/">Orpheus e.V.</a> to prepare pupils participating at physics competitions. Also, I engange myself in the <a href="https://www.epfl.ch/campus/associations/list/photonics/">EPC Photonics Chapter</a>. And I'm teaching at the <a href="https://jgw-ev.de/">sustainability camp</a> about AI & Recycling for talented pupils.
+    I'm active in the <a href="https://go.epfl.ch">Julia EPFL community</a>.
   </div>
 </div>
 ~~~
