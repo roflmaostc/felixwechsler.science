@@ -21,17 +21,15 @@
 
 
 # News
+* See this [preprint](https://preprints.opticaopen.org/articles/preprint/Scalable_angular_spectrum_propagation/23498453) about a scalable angular spectrum wave propagation method. [Code is on GitHub](https://github.com/bionanoimaging/Scalable-Angular-Spectrum-Method-SAS).
 * Check out [this paper](https://opg.optica.org/oe/viewmedia.cfm?uri=oe-31-9-13763&html=true) on PtyLab.m/py/jl for ptychography data reconstruction! 
-* I moved to the EPFL in Lausanne, Switzerland. Shoot me a message if you're around!
-* Part III *Applications and Extensions of Fourier Ptychography* was published. See [here](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/775BCAA7142953570F3CFC96D9BE9FA6/S1551929522001298a.pdf/div-class-title-applications-and-extensions-of-fourier-ptychography-div.pdf).
 * A short proceeding paper about the [Kaleidomicroscope](https://opg.optica.org/abstract.cfm?uri=COSI-2022-CTu4F.5) was published by Optica.
 
 
 ## Current Projects 
 * Tomographic volumetric 3D printing
 * Optical Wave Propagation
-* Light Field Microscopy 
-* Ptychography (Software and Hardware)
+* Microscopy 
 
 ##
 ~~~
