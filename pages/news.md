@@ -1,4 +1,6 @@
 # News
+## Sustainability Camp - Deutsche SchülerAkademie
+* Again, I was teaching at the sustainability camp about Recycling and AI. Organized by [JGW](https://jgw-ev.de/)
 
 ## PhD (Feburary 2023)
 * I moved to the EPFL in Lausanne, Switzerland. Shoot me a message if you're around!

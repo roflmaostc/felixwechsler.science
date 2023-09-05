@@ -1,8 +1,8 @@
 # Publications
 
 ## 2023
+* **Felix Wechsler**, Rainer Heintzmann (2023). DeconvOptim.jl - Signal Deconvolution with Julia. JuliaCon Proceedings. [Link](https://proceedings.juliacon.org/papers/10.21105/jcon.00099) 
 * Lars Loetgering, Mengqi Du, Dirk Boonzajer Flaes, Tomas Aidukas, **Felix Wechsler**, Daniel S. Penagos Molina, Max Rose, Antonios Pelekanidis, Wilhelm Eschen, Jürgen Hess, Thomas Wilhein, Rainer Heintzmann, Jan Rothhardt, and Stefan Witte, "PtyLab.m/py/jl: a cross-platform, open-source inverse modeling toolbox for conventional and Fourier ptychography," Opt. Express 31, 13763-13797 (2023). [Link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-9-13763&id=529026) 
-* Loetgering, L., Du, M., Flaes, D. B., Aidukas, T., **Wechsler, F.**, Molina, D. S. P., ... & Witte, S. (2023). PtyLab. m/py/jl: a cross-platform, open-source inverse modeling toolbox for conventional and Fourier ptychography. arXiv preprint [arXiv:2301.06595](https://arxiv.org/abs/2301.06595).
 
 ## 2022
 * Aidukas, T., **Wechsler, F.**, Loetgering, L., Zhou, K., & Horstmeyer, R. (2022). Applications and Extensions of Fourier Ptychography. Microscopy Today, 30(6), 40-45. [doi:10.1017/S1551929522001298](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/775BCAA7142953570F3CFC96D9BE9FA6/S1551929522001298a.pdf/div-class-title-applications-and-extensions-of-fourier-ptychography-div.pdf)
