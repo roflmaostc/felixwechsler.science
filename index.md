@@ -21,6 +21,7 @@
 
 
 # News
+* [AI or Not?](https://aiornot.fun): Try this little game to judge whether a scientific paper is about AI or not.
 * JuliaCon Proceedings on [DeconvOptim.jl](https://proceedings.juliacon.org/papers/10.21105/jcon.00099) are published.
 * See this [preprint](https://preprints.opticaopen.org/articles/preprint/Scalable_angular_spectrum_propagation/23498453) about a scalable angular spectrum wave propagation method. [Code is on GitHub](https://github.com/bionanoimaging/Scalable-Angular-Spectrum-Method-SAS).
 * Check out [this paper](https://opg.optica.org/oe/viewmedia.cfm?uri=oe-31-9-13763&html=true) on PtyLab.m/py/jl for ptychography data reconstruction! 
