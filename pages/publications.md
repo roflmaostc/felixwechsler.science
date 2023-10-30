@@ -1,6 +1,7 @@
 # Publications
 
 ## 2023
+* Rainer Heintzmann, Lars Loetgering, and **Felix Wechsler**, "Scalable angular spectrum propagation," Optica 10, 1407-1416 (2023). [Link](https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-11-1407&id=541154)
 * **Felix Wechsler**, Rainer Heintzmann (2023). DeconvOptim.jl - Signal Deconvolution with Julia. JuliaCon Proceedings. [Link](https://proceedings.juliacon.org/papers/10.21105/jcon.00099) 
 * Lars Loetgering, Mengqi Du, Dirk Boonzajer Flaes, Tomas Aidukas, **Felix Wechsler**, Daniel S. Penagos Molina, Max Rose, Antonios Pelekanidis, Wilhelm Eschen, Jürgen Hess, Thomas Wilhein, Rainer Heintzmann, Jan Rothhardt, and Stefan Witte, "PtyLab.m/py/jl: a cross-platform, open-source inverse modeling toolbox for conventional and Fourier ptychography," Opt. Express 31, 13763-13797 (2023). [Link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-9-13763&id=529026) 
 
