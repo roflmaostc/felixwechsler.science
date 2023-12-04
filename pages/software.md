@@ -7,6 +7,7 @@ At the moment I mainly develop packages written in [Julia](https://www.julialang
 
 * The Julia implementation of [PtyLab](https://github.com/PtyLab/PtyLab.jl)
 * A generic deconvolution package called [DeconvOptim.jl](https://github.com/roflmaostc/DeconvOptim.jl) written in Julia. The gradient step is calculated using automatic differentation (Zygote.jl) and the deconvolution is able to run on CPU and GPU.
+* [RadonKA.jl](https://github.com/roflmaostc/RadonKA.jl): A Julia CPU and CUDA implementation for the (exponential) Radon transform.
 * [FourierTools.jl](https://github.com/bionanoimaging/FourierTools.jl/) which is a collection of tools and several algorithms working in Fourier space.
 * [PhysicalOptics.jl [WIP]](https://github.com/JuliaPhysics/PhysicalOptics.jl) allows to calculate scalar wave propagation which can be automatic differentiated by Julia's AD. 
 * [Scalable Angular Spectrum Method](https://github.com/bionanoimaging/Scalable-Angular-Spectrum-Method-SAS)
