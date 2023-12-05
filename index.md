@@ -21,11 +21,12 @@
 
 
 # News
+* [RadonKA.jl](https://github.com/roflmaostc/Radonka.jl): A simple but fast Radon transform in Julia for GPU and CPU!
+* [Open student projects](https://www.epfl.ch/labs/lapd/page-40471-en-html/computational-phase-imaging-with-a-spatial-light-modulator/) about phase imaging with spatial lightmodulator
 * [OPTICA publication](https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-11-1407&id=541154) about the Scalable Angular Spectrum method
 * [AI or Not?](https://aiornot.fun): Try this little game to judge whether a scientific paper is about AI or not.
 * JuliaCon Proceedings on [DeconvOptim.jl](https://proceedings.juliacon.org/papers/10.21105/jcon.00099) are published.
 * Check out [this paper](https://opg.optica.org/oe/viewmedia.cfm?uri=oe-31-9-13763&html=true) on PtyLab.m/py/jl for ptychography data reconstruction! 
-* A short proceeding paper about the [Kaleidomicroscope](https://opg.optica.org/abstract.cfm?uri=COSI-2022-CTu4F.5) was published by Optica.
 
 
 ## Current Projects 

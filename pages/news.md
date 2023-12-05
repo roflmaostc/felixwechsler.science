@@ -1,4 +1,8 @@
 # News
+
+## November (2023)
+* [OPTICA publication](https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-11-1407&id=541154) about the Scalable Angular Spectrum method
+
 ## Sustainability Camp - Deutsche SchülerAkademie
 * Again, I was teaching at the sustainability camp about Recycling and AI. Organized by [JGW](https://jgw-ev.de/)
 
@@ -6,8 +10,10 @@
 * I moved to the EPFL in Lausanne, Switzerland. Shoot me a message if you're around!
 
 ## PtyLab (January 2023) 
-* Checkout [our preprint](https://arxiv.org/abs/2301.06595) on PtyLab.m/py/jl for ptychography data reconstruction! 
+* Check out [this paper](https://opg.optica.org/oe/viewmedia.cfm?uri=oe-31-9-13763&html=true) on PtyLab.m/py/jl for ptychography data reconstruction! 
 
+## COSI (July 2022)
+* A short proceeding paper about the [Kaleidomicroscope](https://opg.optica.org/abstract.cfm?uri=COSI-2022-CTu4F.5) was published by Optica.
 
 ## JuliaCon (July 2022)
 * We are presenting [PSFs.jl](https://github.com/RainerHeintzmann/PSFs.jl) and [PtyLab.jl](https://github.com/roflmaostc/PtyLab.jl) at the upcoming [JuliaCon](https://juliacon.org/2022/).
