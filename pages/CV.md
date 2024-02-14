@@ -33,6 +33,8 @@ Felix Wechsler, born in Germany
 * 2014 - 2017: Preparing students for the [International Young Physicists' Tournament](https://www.iypt.org)
 
 ## Honours
+* 2023: Best poster in the lecture "Science of Climate Change" 
+* 2023: EPFL EDPO Photonic Day. Best poster award. Second prize lightning talk. 
 * 2022: [Applied Photonics Award (2000€)](https://www.applied-photonics-award.de/) for the best master thesis!
 * 2022: Award for the best master thesis at [Leibniz IPHT](https://www.leibniz-ipht.de/en/news/) (500€)
 * 2022: [*Faculty Award*](https://www.physik.uni-jena.de/en/research/junior-scientists/faculty-awards/faculty-awards-rohde-schwarz) for the best master thesis at [University of Jena](https://www.uni-jena.de/) (1000€) 
@@ -45,12 +47,6 @@ Felix Wechsler, born in Germany
 * 2012 - 2014: Several awards at the national level of the [physics](https://www.scienceolympiaden.de/ipho) and [mathematics olympiad](https://www.mo-by.de/)
 * 2014: [Schülerpreis](https://www.dpg-physik.de/auszeichnungen/dpg-preise/schuelerinnen-und-schuelerpreis/preistraeger) of the German Physical Society
     * awarded to only 10 pupils each year
-
-## Software 
-* [DeconvOptim.jl:](https://github.com/roflmaostc/DeconvOptim.jl) for multi dimensional image deconvolution for both CPUs and GPUs
-* [FourierTools.jl:](https://github.com/bionanoimaging/FourierTools.jl/) for efficient working with Fourier space
-* [orpheuscc:](https://www.orpheus-verein.de) Django web application to manage seminars and activities of the Orpheus e.V.
-* Several other toolboxes written in Julia Lang can be found on [GitHub](https://github.com/roflmaostc/) 
 
 
 ## Talks
