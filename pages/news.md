@@ -1,6 +1,13 @@
 # News
 
+## February 2024
+* [RadonKA.jl](https://github.com/roflmaostc/Radonka.jl): The fastest Radon transform in Julia for CPUs and GPUs! 
+* Preprint: [Wave optical model for tomographic volumetric additive manufacturing](https://arxiv.org/abs/2402.06283). Stay tuned for code release!
+
+
 ## November (2023)
+* [OPTICA publication](https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-11-1407&id=541154) about the Scalable Angular Spectrum method
+* JuliaCon Proceedings on [DeconvOptim.jl](https://proceedings.juliacon.org/papers/10.21105/jcon.00099) are published.
 * [OPTICA publication](https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-11-1407&id=541154) about the Scalable Angular Spectrum method
 
 ## Sustainability Camp - Deutsche SchülerAkademie
