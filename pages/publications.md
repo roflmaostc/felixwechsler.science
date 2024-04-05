@@ -1,7 +1,7 @@
 # Publications
 
 ## 2024
-* **Felix Wechsler**, Carlo Gigli, Jorge Madrid-Wolff, Christophe Moser, "Wave optical model for tomographic volumetric additive manufacturing", [arXiv](https://arxiv.org/abs/2402.06283)
+* **Felix Wechsler**, Carlo Gigli, Jorge Madrid-Wolff, Christophe Moser, "Wave optical model for tomographic volumetric additive manufacturing", [Optics Express](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-8-14705&id=548744)
 
 ## 2023
 * Rainer Heintzmann, Lars Loetgering, and **Felix Wechsler**, "Scalable angular spectrum propagation," Optica 10, 1407-1416 (2023). [Link](https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-11-1407&id=541154)
