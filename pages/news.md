@@ -2,7 +2,7 @@
 
 ## February 2024
 * [RadonKA.jl](https://github.com/roflmaostc/Radonka.jl): The fastest Radon transform in Julia for CPUs and GPUs! 
-* Preprint: [Wave optical model for tomographic volumetric additive manufacturing](https://arxiv.org/abs/2402.06283). Stay tuned for code release!
+* [Wave optical model for tomographic volumetric additive manufacturing](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-8-14705&id=548744). Run the [source code](https://github.com/EPFL-LAPD/SwissVAMyKnife.jl) yourself! 
 
 
 ## November (2023)
