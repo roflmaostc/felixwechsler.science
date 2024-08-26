@@ -11,7 +11,7 @@
     <img src="assets/Felix_Wechsler_2022s.JPG">
   </div>
   <div class="column right">
-    My name is Felix Wechsler and my passion is combining optics with computer science (preferably <a href="https://julialang.org/">Julia Lang</a>).
+    My name is Felix Wechsler (he/him) and my passion is combining optics with computer science (preferably <a href="https://julialang.org/">Julia Lang</a>).
 <p  >In 2023, I started as doctoral candidate at <a href="https://www.epfl.ch/labs/lapd/">EPFL in Lausanne</a> in the LAPD led by Christophe Moser.
     I work on computational tools to improve <a href="https://www.youtube.com/watch?v=ONBHkzimRbg">Tomographic 3D Printing</a>.
     <p>In my freetime I enjoy <a href="https://www.strava.com/athletes/100197734">graveling by bike</a> and playing <a href="https://paradiscojena.de/wiki/HomePage">Ultimate Frisbee</a>. Besides I'm involved in <a href="https://www.orpheus-verein.de/de/">Orpheus e.V.</a> to prepare pupils participating at physics competitions. Also, I engange myself in the <a href="https://www.epfl.ch/campus/associations/list/photonics/epc">EPC Photonics Chapter</a>. And I'm teaching at the <a href="https://jgw-ev.de/">sustainability camp</a> about AI & Recycling for talented pupils.
@@ -25,7 +25,8 @@
 
 
 # News
-* I'm attending [JuliaCon 2024](https://juliacon.org/2024/) in Eindhoven, Netherlands in July. See my talk [*Wave and Ray Optics for Light Based Tomographic 3D printing*](https://go.epfl.ch/juliacon).
+* We are going to attend [EOSAM 2024 in Naples, Italy](https://www.conftool.com/eosam2024/index.php?page=browseSessions&search=felix+wechsler). Hit me up there!
+* New publication [Structured illumination microscopy with extreme ultraviolet pulses](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-17-30813&id=554484). Happy to see this collaboration published!
 * New publication: [Wave optical model for tomographic volumetric additive manufacturing](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-8-14705&id=548744). Run the [source code](https://github.com/EPFL-LAPD/SwissVAMyKnife.jl) yourself! 
 * [RadonKA.jl](https://github.com/roflmaostc/Radonka.jl): The fastest Radon transform in Julia for CPUs and GPUs! 
 * [OPTICA publication](https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-11-1407&id=541154) about the Scalable Angular Spectrum method

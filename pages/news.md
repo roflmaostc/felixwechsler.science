@@ -1,5 +1,8 @@
 # News
 
+## July '24
+* I'm attending [JuliaCon 2024](https://juliacon.org/2024/) in Eindhoven, Netherlands in July. See my talk [*Wave and Ray Optics for Light Based Tomographic 3D printing*](https://go.epfl.ch/juliacon).
+
 ## February 2024
 * [RadonKA.jl](https://github.com/roflmaostc/Radonka.jl): The fastest Radon transform in Julia for CPUs and GPUs! 
 * [Wave optical model for tomographic volumetric additive manufacturing](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-8-14705&id=548744). Run the [source code](https://github.com/EPFL-LAPD/SwissVAMyKnife.jl) yourself! 
