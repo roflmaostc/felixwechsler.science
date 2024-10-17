@@ -5,6 +5,7 @@ See my [GitHub](https://github.com/roflmaostc).
 
 At the moment I mainly develop packages written in [Julia](https://www.julialang.org).
 
+* [SwissVAMyKnife.jl](https://github.com/EPFL-LAPD/SwissVAMyKnife.jl): Optimization of TVAM patterns
 * [RadonKA.jl](https://github.com/roflmaostc/RadonKA.jl): A Julia CPU and CUDA implementation for the (exponential) Radon transform.
 * [WaveOpticsPropagation.jl](https://github.com/JuliaPhysics/WaveOpticsPropagation.jl): Differentiable wave propagation
 * The Julia implementation of [PtyLab](https://github.com/PtyLab/PtyLab.jl)

@@ -25,11 +25,8 @@
 
 
 # News
-* We are going to attend [EOSAM 2024 in Naples, Italy](https://www.conftool.com/eosam2024/index.php?page=browseSessions&search=felix+wechsler). Hit me up there!
-* New publication [Structured illumination microscopy with extreme ultraviolet pulses](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-17-30813&id=554484). Happy to see this collaboration published!
-* New publication: [Wave optical model for tomographic volumetric additive manufacturing](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-8-14705&id=548744). Run the [source code](https://github.com/EPFL-LAPD/SwissVAMyKnife.jl) yourself! 
-* [RadonKA.jl](https://github.com/roflmaostc/Radonka.jl): The fastest Radon transform in Julia for CPUs and GPUs! 
-* [OPTICA publication](https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-11-1407&id=541154) about the Scalable Angular Spectrum method
+* Some of our TVAM work we present at the upcoming SPIE Photonics West in January '25!
+* We are attending [SIGGRAPH Asia](https://asia.siggraph.org/2024/) in Tokyo this December '24.  
 
 
 ## Current Projects 

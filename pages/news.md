@@ -1,6 +1,11 @@
 # News
 
+## September '24
+* We are going to attend [EOSAM 2024 in Naples, Italy](https://www.conftool.com/eosam2024/index.php?page=browseSessions&search=felix+wechsler). Hit me up there!
+
 ## July '24
+* New publication [Structured illumination microscopy with extreme ultraviolet pulses](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-17-30813&id=554484). Happy to see this collaboration published!
+* New publication: [Wave optical model for tomographic volumetric additive manufacturing](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-8-14705&id=548744). Run the [source code](https://github.com/EPFL-LAPD/SwissVAMyKnife.jl) yourself! 
 * I'm attending [JuliaCon 2024](https://juliacon.org/2024/) in Eindhoven, Netherlands in July. See my talk [*Wave and Ray Optics for Light Based Tomographic 3D printing*](https://go.epfl.ch/juliacon).
 
 ## February 2024
