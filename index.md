@@ -25,9 +25,9 @@
 
 
 # News
+* I joined [BlueSky](https://bsky.app/profile/felixwechsler.bsky.social), follow me!
+* We are presenting our [Dr. TVAM work](https://dl.acm.org/doi/abs/10.1145/3687924) at [SIGGRAPH Asia](https://asia.siggraph.org/2024/) in Tokyo this December '24.  
 * Some of our TVAM work we present at the upcoming SPIE Photonics West in January '25!
-* We are attending [SIGGRAPH Asia](https://asia.siggraph.org/2024/) in Tokyo this December '24.  
-
 
 ## Current Projects 
 * Tomographic volumetric 3D printing
@@ -42,6 +42,7 @@
     <a target="_blank" href="https://scholar.google.de/citations?user=Mc9KWkgAAAAJ&hl=de&oi=ao"> <i class="ai ai-google-scholar-square ai-2x"></i></a>
     <a target="_blank" href="https://www.linkedin.com/in/felix-wechsler-64319070/"><i class="fab fa-linkedin fa-2x fa-fw"></i></a>
     <a target="_blank" href="https://mailhide.io/e/Un5Rkdt7"><i class="fa fa-envelope fa-2x fa-fw"></i></a>
+    <a target="_blank" href="https://bsky.app/profile/felixwechsler.bsky.social"><i class="fa-brands fa-bluesky fa-2x fa-fw"></i></a>
     <a target="_blank" href="https://matrix.to/#/@wechsler:epfl.ch"><i class="fa fa-matrix-org fa-2x fa-fw"></i></a>
   </div> 
 </div>
