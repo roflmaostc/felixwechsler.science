@@ -26,7 +26,7 @@
 
 # News
 * I joined [BlueSky](https://bsky.app/profile/felixwechsler.bsky.social), follow me!
-* We are presenting our [Dr. TVAM work](https://dl.acm.org/doi/abs/10.1145/3687924) at [SIGGRAPH Asia](https://asia.siggraph.org/2024/) in Tokyo this December '24.  
+* We are presenting our [Dr. TVAM work](https://rgl.epfl.ch/publications/Nicolet2024Inverse) at [SIGGRAPH Asia](https://asia.siggraph.org/2024/) in Tokyo this December '24.  
 * Some of our TVAM work we present at the upcoming SPIE Photonics West in January '25!
 
 ## Current Projects 
