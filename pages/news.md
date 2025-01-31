@@ -1,4 +1,7 @@
 # News
+## December '24
+* I attend SIGGRAPH ASIA 2024 in Tokyo!
+
 
 ## September '24
 * We are going to attend [EOSAM 2024 in Naples, Italy](https://www.conftool.com/eosam2024/index.php?page=browseSessions&search=felix+wechsler). Hit me up there!

@@ -26,6 +26,7 @@
 
 # News
 * I joined [BlueSky](https://bsky.app/profile/felixwechsler.bsky.social), follow me!
+* [Dr. TVAM](https://github.com/rgl-epfl/drtvam) for optimizing ray-optical patterns for tomographic volumetric additive manufacturing (TVAM) is now available. 
 * Some of our [TVAM work](https://spie.org/conferences-and-exhibitions/photonics-west/event-search?searchType=ce&term=baptiste+nicolet&x=0&y=0&pageSize=50&pagesVisited=1&sortBy=Relevance) we present at the upcoming SPIE Photonics West in January '25!
 * Also see this [time slot](https://spie.org/photonics-west/presentation/Fast-and-flexible-optical-propagation-using-the-scalable-angular-spectrum/13333-18) for our Scalable Angular Spectrum Propagation (SAS)
 
