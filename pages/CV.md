@@ -1,5 +1,5 @@
 # CV
-Felix Wechsler, born in Germany
+Felix Wechsler, born 1995 in Germany
 
 ## Education
 * 2023 - ongoing: PhD student at [EPFL](https://www.epfl.ch/labs/lapd/), Laboratory of Applied Photonics Devices led by [Christophe Moser](https://people.epfl.ch/christophe.moser?lang=en)
@@ -23,24 +23,27 @@ Felix Wechsler, born in Germany
 * 2014 - 2016: Working student at the [Leibniz Supercomputing Centre, Garching](https://www.lrz.de/)
 
 ## Teaching Experience
+* 2025: Course Instructor *Is there a planet B?* at [Deutsche Schülerakademie](https://www.schuelerakademien.de/programm/kurs?tx_ewacademy_coursedetail%5Bcontroller%5D=Course&tx_ewacademy_coursedetail%5Bcourse%5D=4662&cHash=b45d124a178e7203b3cf685853b7cdfd)
+* 2024, 2025: Teaching assistant for [Computational Optical Imaging](https://edu.epfl.ch/coursebook/en/computational-optical-imaging-MICRO-421) with Demetri Psaltis
+* 2024: Teaching assistant for [Lasers: theory and modern applications](https://edu.epfl.ch/coursebook/fr/lasers-theory-and-modern-applications-MICRO-422)
 * 2022, 2023: Course Instructor *Deep Recyling - Deep Learning for Trash Detection* at [Deutsche Schülerakademie](https://www.schuelerakademien.de/)
 * Summer Term 2023: Teaching assistant for Propriétés optiques
 * Winter Term 2021/22: Teaching assistant for newly created course ["Imaging Processing for Microscopy with Julia"](https://github.com/bionanoimaging/Image-Processing-In-Microscopy)
-    * I was responsible for creating the Julia exercises and correcting homework
 * 2017 - 2019: Teaching assistant (Functional Programming and Verification; Basic Lab Course)
 * 2019: Course Instructor to teach Haskell to grammar school students at [Deutsche Junior Akademie](https://www.deutsche-juniorakademien.de/)
 * 2012 - today: Preparing students for the Physics Olympiad ([Orpheus e.V.](https://www.orpheus-verein.de/)) 
 * 2014 - 2017: Preparing students for the [International Young Physicists' Tournament](https://www.iypt.org)
 
 ## Honours
+* 2024: Best teaching award at STI engineering school at EPFL
 * 2023: Best poster in the lecture "Science of Climate Change" 
 * 2023: EPFL EDPO Photonic Day. Best poster award. Second prize lightning talk. 
-* 2022: [Applied Photonics Award (2000€)](https://www.applied-photonics-award.de/) for the best master thesis!
-* 2022: Award for the best master thesis at [Leibniz IPHT](https://www.leibniz-ipht.de/en/news/) (500€)
-* 2022: [*Faculty Award*](https://www.physik.uni-jena.de/en/research/junior-scientists/faculty-awards/faculty-awards-rohde-schwarz) for the best master thesis at [University of Jena](https://www.uni-jena.de/) (1000€) 
+* 2022: [Applied Photonics Award (2000€)](https://www.applied-photonics-award.de/) for the best master thesis.
+* 2022: Award for the best master thesis at [Leibniz IPHT](https://www.leibniz-ipht.de/en/news/) (500€).
+* 2022: [*Faculty Award*](https://www.physik.uni-jena.de/en/research/junior-scientists/faculty-awards/faculty-awards-rohde-schwarz) for the best master thesis at [University of Jena](https://www.uni-jena.de/) (1000€). 
 * 2021 - 2024: [Max Planck School of Photonics](https://photonics.maxplanckschools.org/en/home): Full Research PhD Position 
 * 2021: [Deutschlandstipendium](https://www.deutschlandstipendium.de/de/english-1700.html) with partial funding of the [Carl Zeiss Foundation](https://www.carl-zeiss-stiftung.de/english/index.html)
-* 2020 - 2021: [Honours Programme](https://www.uni-jena.de/wissenschaftliche+karriere/forschungsorientiertes+studium/honours-programm+f%C3%BCr+forschungsorientierte+studierende/aufnahmejahrgang+2020) of the University of Jena
+* 2020 - 2021: [Honours Programme](https://www.uni-jena.de/115665/honours-programm-fuer-forschungsorientierte-studierende) of the University of Jena
     * Research grant (2.000€) for an optical inverse modeling framework. Awarded by the Friedrich Schiller University to only 0.4% of the students.
 * 2019 - 2020: Thüringen Scholarship
 * 2014, 2016: Gold and silver medals at the [IYPT](https://www.iypt.org) as team captain and team leader
@@ -49,23 +52,14 @@ Felix Wechsler, born in Germany
     * awarded to only 10 pupils each year
 
 
-## Talks
-### 2022
-* Talk at the Ptychography workshop organized by [Lars Loetgering](https://sites.google.com/fulbrightmail.org/phasespace)
-
-### 2021
-* [6th NorMIC Imaging Workshop - Course in Advanced Light Microscopy and Image Processing](https://www.med.uio.no/ncmm/english/news-and-events/events/courses-and-workshops/2021/normic-imaging-workshop-course-in-advanced-light-m.html)
-    * Presenting Julia and tools suited for microscopy imaging like DeconvOptim.jl. [Link to Material](https://github.com/bionanoimaging/Introduction_Image_Processing_Julia)
-* Presentations at the [JuliaCon 2021](https://juliacon.org/2021/)
-    * [FourierTools.jl hosted on YouTube](https://www.youtube.com/watch?v=qYgJDb_Ko2E)
-    * [DeconvOptim.jl hosted on YouTube](https://www.youtube.com/watch?v=FodpnOhccis)
-
 ## Misc
-* 2021 - today: Treasurer and Vice-President at the [OSA-SPIE Student Chapter Jena](https://osa-spie-jena.de/)
-* 2019 - today: Chairman of the [Orpheus e.V.](https://www.orpheus-verein.de/de/)
+* 2024 - today: PhD representative at the [EPFL Photonics PhD program (EDPO)](https://www.epfl.ch/education/phd/edpo-photonics/)
+* 2023 - 2025: Member of the [EPFL EPC OPTICA SPIE Chapter](https://epc.epfl.ch) 
+* 2021 - 2023: Treasurer and Vice-President at the [OPTICA SPIE Student Chapter Jena](https://www.asp.uni-jena.de/10186/optica-spie-student-chapters-jena)
+* 2019 - 2023: Chairman of the [Orpheus e.V.](https://www.orpheus-verein.de/de/)
     * Responsible for managing the society and organizing seminars about physics with 200 participants
-    * Acquired >10.000€ in funding 
+    * Acquired >300.000€ in funding for organizing seminar for pupils 
 * 2014 - today: Supervisor and Juror at the [GYPT](https://gypt.org/)
-    * Guiding pupils during preparation. Support as juror in regional and final stages
+    * Organizer of the German selection tournament and team leader. Guiding pupils during preparation. Support as juror in regional and final stages
 * 2014 - 2019: [Student Council](https://mpi.fs.tum.de/), member of the department council, speaker of physics and computer science year
     * Highest student representative in the department of Informatics representing >5000 students

@@ -3,6 +3,8 @@
 [Google Scholar Profile](https://scholar.google.de/citations?hl=de&user=Mc9KWkgAAAAJ&view_op=list_works)
 
 ## 2024
+* Nicolet, B., **Wechsler, F.**, Madrid-Wolff, J., Moser, C., & Jakob, W. (2024). Inverse Rendering for Tomographic Volumetric Additive Manufacturing. [ACM Transactions on Graphics (TOG), 43(6), 1-17.](https://dl.acm.org/doi/abs/10.1145/3687924)
+
 * **Felix Wechsler**, Carlo Gigli, Jorge Madrid-Wolff, Christophe Moser, "Wave optical model for tomographic volumetric additive manufacturing", [Optics Express](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-8-14705&id=548744)
 * Riccardo Mincigrucci, Ettore Paltanin, Jacopo-Stefano Pelli-Cresi, Fabrizio Gala, Emanuele Pontecorvo, Laura Foglia, Dario De Angelis, Danny Fainozzi, Alessandro Gessini, Daniel S. P. Molina, Ondreij Stranik, **Felix Wechsler**, Rainer Heintzmann, Jan Rothhardt, Lars Loetgering, Giancarlo Ruocco, Filippo Bencivenga, and Claudio Masciovecchio, "Structured illumination microscopy with extreme ultraviolet pulses." [arXiv](https://arxiv.org/abs/2403.19382) preprint arXiv:2403.19382 (2024).
 

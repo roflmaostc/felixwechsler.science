@@ -14,7 +14,7 @@
     My name is Felix Wechsler (he/him) and my passion is combining optics with computer science (preferably <a href="https://julialang.org/">Julia Lang</a>).
 <p  >In 2023, I started as doctoral candidate at <a href="https://www.epfl.ch/labs/lapd/">EPFL in Lausanne</a> in the LAPD led by Christophe Moser.
     I work on computational tools to improve <a href="https://www.youtube.com/watch?v=ONBHkzimRbg">Tomographic 3D Printing</a>.
-    <p>In my freetime I enjoy <a href="https://www.strava.com/athletes/100197734">graveling by bike</a> and playing <a href="https://paradiscojena.de/wiki/HomePage">Ultimate Frisbee</a>. Besides I'm involved in <a href="https://www.orpheus-verein.de/de/">Orpheus e.V.</a> to prepare pupils participating at physics competitions. Also, I engange myself in the <a href="https://www.epfl.ch/campus/associations/list/photonics/epc">EPC Photonics Chapter</a>. And I'm teaching at the <a href="https://jgw-ev.de/">sustainability camp</a> about AI & Recycling for talented pupils.
+    <p>In my freetime I enjoy <a href="https://www.strava.com/athletes/100197734">graveling by bike</a> and playing <a href="https://www.flyhigh.ultimate.ch/">Ultimate Frisbee</a>. Besides I'm involved in <a href="https://www.orpheus-verein.de/de/">Orpheus e.V.</a> to prepare pupils participating at physics competitions. And I'm teaching at the <a href="https://jgw-ev.de/">sustainability camp</a> about AI & Recycling for talented pupils.
     I'm active in the <a href="https://go.epfl.ch/julia">Julia EPFL community</a>.
     I'm the elected PhD representative in the <a href="https://www.epfl.ch/education/phd/edpo-photonics/">Photonics PhD</a> program at EPFL.
     <br><br>
@@ -27,8 +27,8 @@
 # News
 * I joined [BlueSky](https://bsky.app/profile/felixwechsler.bsky.social), follow me!
 * [Dr. TVAM](https://github.com/rgl-epfl/drtvam) for optimizing ray-optical patterns for tomographic volumetric additive manufacturing (TVAM) is now available. 
-* Some of our [TVAM work](https://spie.org/conferences-and-exhibitions/photonics-west/event-search?searchType=ce&term=baptiste+nicolet&x=0&y=0&pageSize=50&pagesVisited=1&sortBy=Relevance) we present at the upcoming SPIE Photonics West in January '25!
-* Also see this [time slot](https://spie.org/photonics-west/presentation/Fast-and-flexible-optical-propagation-using-the-scalable-angular-spectrum/13333-18) for our Scalable Angular Spectrum Propagation (SAS)
+* Some of our [TVAM work](https://spie.org/conferences-and-exhibitions/photonics-west/event-search?searchType=ce&term=baptiste+nicolet&x=0&y=0&pageSize=50&pagesVisited=1&sortBy=Relevance) was present at the SPIE Photonics West in January '25!
+* Also some progress on the [Scalable Angular Spectrum Propagation (SAS)](https://spie.org/photonics-west/presentation/Fast-and-flexible-optical-propagation-using-the-scalable-angular-spectrum/13333-18) 
 
 ## Current Projects 
 * Tomographic volumetric 3D printing
