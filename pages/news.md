@@ -1,4 +1,13 @@
 # News
+
+## July '25
+* I participate at the [International Young Physicists' Tournament (IYPT)](https://www.iypt.org/) as an independent juror this summer in Lund, Sweden!
+
+
+## January '25
+* Some of our [TVAM work](https://spie.org/conferences-and-exhibitions/photonics-west/event-search?searchType=ce&term=baptiste+nicolet&x=0&y=0&pageSize=50&pagesVisited=1&sortBy=Relevance) was present at the SPIE Photonics West in January '25!
+* Also some progress on the [Scalable Angular Spectrum Propagation (SAS)](https://spie.org/photonics-west/presentation/Fast-and-flexible-optical-propagation-using-the-scalable-angular-spectrum/13333-18) 
+
 ## December '24
 * I attend SIGGRAPH ASIA 2024 in Tokyo!
 
