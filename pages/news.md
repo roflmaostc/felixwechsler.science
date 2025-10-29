@@ -1,5 +1,9 @@
 # News
 
+## September and October '25
+* I am attending [OptoFluidiX 2025](https://home.uni-leipzig.de/~physik/sites/optofluidix2025/wp-content/uploads/sites/13/2025/09/List-of-Posters.pdf) in Leipzig from 16th - 18th of September.
+* We present our overprinting work at [3D Additive Manufacturing](https://3dam-conference.com/wp-content/uploads/2025/09/3Dam2025_PROGRAM.pdf)  in San Sebastian from 7th to 10th of October.
+
 ## July '25
 * I participate at the [International Young Physicists' Tournament (IYPT)](https://www.iypt.org/) as an independent juror this summer in Lund, Sweden!
 

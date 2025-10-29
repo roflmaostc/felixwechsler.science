@@ -24,8 +24,7 @@
 
 
 # News
-* I am attending [OptoFluidiX 2025](https://home.uni-leipzig.de/~physik/sites/optofluidix2025/wp-content/uploads/sites/13/2025/09/List-of-Posters.pdf) in Leipzig from 16th - 18th of September.
-* We present our overprinting work at [3D Additive Manufacturing](https://3dam-conference.com/wp-content/uploads/2025/09/3Dam2025_PROGRAM.pdf)  in San Sebastian from 7th to 10th of October.
+* I received the best talk award at [3DAM conference](https://3dam-conference.com/). However, I rejected it because of financial sponsorship by Elsevier
 * We published a preprint called [Overprinting with Tomographic Volumetric Additive Manufacturing](https://arxiv.org/abs/2507.13842). Also see the [LinkedIn post](https://www.linkedin.com/posts/felix-wechsler_3dprinting-optics-mitsuba-activity-7352971453316665345-24-8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA756JMBrITExbZ2L3rXb4EeHtFzhscC78c)
 * I joined [BlueSky](https://bsky.app/profile/felixwechsler.bsky.social), follow me!
 * [Dr. TVAM](https://github.com/rgl-epfl/drtvam) for optimizing ray-optical patterns for tomographic volumetric additive manufacturing (TVAM) is now available. 
