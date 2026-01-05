@@ -24,9 +24,11 @@
 
 
 # News
+* I am looking for potential postdoctoral positions starting from summer 2027. I am interested in anything around physical & chemical modelling of VAM processes and/or potential bio applications.
+* We are organizing a TVAM workshop at EPFL on the 10th of April. Send me a message if you'd like to join!
+* We are going to attend [Photonics Europe](https://spie.org/conferences-and-exhibitions/photonics-europe) in Strasbourg from 12th to 16th of April and [TERMIS2026](https://eu2026.termis.org/) in Mallorca from 21st to 24th of April
 * I received the best talk award at [3DAM conference](https://3dam-conference.com/). However, I rejected it because of financial sponsorship by Elsevier
 * We published a preprint called [Overprinting with Tomographic Volumetric Additive Manufacturing](https://arxiv.org/abs/2507.13842). Also see the [LinkedIn post](https://www.linkedin.com/posts/felix-wechsler_3dprinting-optics-mitsuba-activity-7352971453316665345-24-8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA756JMBrITExbZ2L3rXb4EeHtFzhscC78c)
-* I joined [BlueSky](https://bsky.app/profile/felixwechsler.bsky.social), follow me!
 * [Dr. TVAM](https://github.com/rgl-epfl/drtvam) for optimizing ray-optical patterns for tomographic volumetric additive manufacturing (TVAM) is now available. 
 
 ## Current Projects 
