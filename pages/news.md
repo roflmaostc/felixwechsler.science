@@ -6,6 +6,7 @@
 
 ## July '25
 * I participate at the [International Young Physicists' Tournament (IYPT)](https://www.iypt.org/) as an independent juror this summer in Lund, Sweden!
+* We published a preprint called [Overprinting with Tomographic Volumetric Additive Manufacturing](https://arxiv.org/abs/2507.13842). Also see the [LinkedIn post](https://www.linkedin.com/posts/felix-wechsler_3dprinting-optics-mitsuba-activity-7352971453316665345-24-8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA756JMBrITExbZ2L3rXb4EeHtFzhscC78c)
 
 
 ## January '25
@@ -13,6 +14,7 @@
 * Also some progress on the [Scalable Angular Spectrum Propagation (SAS)](https://spie.org/photonics-west/presentation/Fast-and-flexible-optical-propagation-using-the-scalable-angular-spectrum/13333-18) 
 
 ## December '24
+* [Dr. TVAM](https://github.com/rgl-epfl/drtvam) for optimizing ray-optical patterns for tomographic volumetric additive manufacturing (TVAM) is now available. 
 * I attend SIGGRAPH ASIA 2024 in Tokyo!
 
 

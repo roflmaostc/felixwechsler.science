@@ -4,12 +4,19 @@
 
 Bold names are first author publications
 
+## 2026
+* Riccardo Rizzo, **Felix Wechsler**, Qianyi Zhang, Christophe Moser. Too Big, Too Small, Too O$_2$: The Pandoro Effect from Oxygen Gradients in Tomographic Volumetric Additive Manufacturing.  arxiv:2604.06313[](https://arxiv.org/abs/2604.06313)
+* Riccardo Rizzo, Viola Sgarminato, Felix Wechsler, Christophe Moser. Tomographic Printing in a Chip: A Versatile Platform for Biomimetic 3D Organ-on-Chip. [bioRxiv 10.64898 2026.02.26.708161](https://www.biorxiv.org/content/10.64898/2026.02.26.708161v2.abstract)
+* Buse Unlu, Felix Wechsler, Ye Pu, Christophe Moser. A unified multiscale 3D printer combining single-photon Tomographic Volumetric Additive Manufacturing and Two-Photon Polymerization. [arXiv:2601.13457](https://arxiv.org/abs/2601.13457)
+* **Felix Wechsler**, Riccardo Rizzo, Christophe Moser. Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization. [arXiv:2601.16330](https://arxiv.org/abs/2601.16330)
+
 
 ## 2025
 * **Felix Wechsler**, Viola Sgarminato, Riccardo Rizzo, Baptiste Nicolet, Wenzel Jakob, Christophe Moser. Overprinting with Tomographic Volumetric Additive Manufacturing. [arXiv:2507.13842](https://arxiv.org/abs/2507.13842)
+* Shiqi Xu, Rachna Parwani, Nathan Johnson, Felix Wechsler, Andrea Bertoncini, Gerhard Krampert, Marie-Christine Zdora, Matthew Andrew. High-Resolution Multimodal Tomography with a Plenoptic Hard X-Ray Laboratory System. [Computational Optical Sensing and Imaging, CW3B. 5](https://opg.optica.org/abstract.cfm?uri=cosi-2025-CW3B.5)
 
 ## 2024
-* Nicolet, B., **Wechsler, F.**, Madrid-Wolff, J., Moser, C., & Jakob, W. (2024). Inverse Rendering for Tomographic Volumetric Additive Manufacturing. [ACM Transactions on Graphics (TOG), 43(6), 1-17.](https://dl.acm.org/doi/abs/10.1145/3687924)
+* Baptiste Nicolet, **Felix Wechsler**, Jorge Madrid-Wolff, Christophe Moser, Wenzel Jakob, (2024). Inverse Rendering for Tomographic Volumetric Additive Manufacturing. [ACM Transactions on Graphics (TOG), 43(6), 1-17.](https://dl.acm.org/doi/abs/10.1145/3687924)
 
 * **Felix Wechsler**, Carlo Gigli, Jorge Madrid-Wolff, Christophe Moser, "Wave optical model for tomographic volumetric additive manufacturing", [Optics Express](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-8-14705&id=548744)
 * Riccardo Mincigrucci, Ettore Paltanin, Jacopo-Stefano Pelli-Cresi, Fabrizio Gala, Emanuele Pontecorvo, Laura Foglia, Dario De Angelis, Danny Fainozzi, Alessandro Gessini, Daniel S. P. Molina, Ondreij Stranik, Felix Wechsler, Rainer Heintzmann, Jan Rothhardt, Lars Loetgering, Giancarlo Ruocco, Filippo Bencivenga, and Claudio Masciovecchio, "Structured illumination microscopy with extreme ultraviolet pulses." [arXiv](https://arxiv.org/abs/2403.19382) preprint arXiv:2403.19382 (2024).

@@ -24,8 +24,10 @@
 
 
 # News
+* New preprint: [The Pandoro effect in Tomographic Volumetric Additive Manufacturing](https://arxiv.org/abs/2604.06313)
+* New preprint: [Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization](https://arxiv.org/abs/2601.16330)
+* I am visiting Stanford from May until September!
 * I am looking for potential postdoctoral positions starting from summer 2027. I am interested in anything around physical & chemical modelling of VAM processes and/or potential bio applications.
-* We are organizing a TVAM workshop at EPFL on the 10th of April. Send me a message if you'd like to join!
 * We are going to attend [Photonics Europe](https://spie.org/photonics-europe/presentation/Overprinting-with-Tomographic-Volumetric-Additive-Manufacturing-using-Dr-TVAM/14082-36) in Strasbourg from 12th to 16th of April and [TERMIS2026](https://eu2026.termis.org/) in Mallorca from 21st to 24th of April.
 * I received the best talk award at [3DAM conference](https://3dam-conference.com/). However, I rejected it because of financial sponsorship by Elsevier. See [here](https://www.linkedin.com/posts/felix-wechsler_i-rejected-an-elsevier-sponsored-best-talk-activity-7431673941246603264-c3uK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA756JMBrITExbZ2L3rXb4EeHtFzhscC78c) my reasoning.
 * We published a preprint called [Overprinting with Tomographic Volumetric Additive Manufacturing](https://arxiv.org/abs/2507.13842). Also see the [LinkedIn post](https://www.linkedin.com/posts/felix-wechsler_3dprinting-optics-mitsuba-activity-7352971453316665345-24-8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA756JMBrITExbZ2L3rXb4EeHtFzhscC78c)
@@ -33,8 +35,9 @@
 
 ## Current Projects 
 * Volumetric 3D printing (Tomographic is one variant)
+* Holographic 3D printing
 * Optical Wave Propagation
-* Microscopy 
+* Phase Microscopy 
 
 ##
 ~~~
