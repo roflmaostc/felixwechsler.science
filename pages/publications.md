@@ -8,11 +8,11 @@ Bold names are first author publications
 * Riccardo Rizzo, **Felix Wechsler**, Qianyi Zhang, Christophe Moser. Too Big, Too Small, Too O$_2$: The Pandoro Effect from Oxygen Gradients in Tomographic Volumetric Additive Manufacturing.  [arxiv:2604.06313](https://arxiv.org/abs/2604.06313)
 * Riccardo Rizzo, Viola Sgarminato, Felix Wechsler, Christophe Moser. Tomographic Printing in a Chip: A Versatile Platform for Biomimetic 3D Organ-on-Chip. [bioRxiv 10.64898 2026.02.26.708161](https://www.biorxiv.org/content/10.64898/2026.02.26.708161v2.abstract)
 * Buse Unlu, Felix Wechsler, Ye Pu, Christophe Moser. A unified multiscale 3D printer combining single-photon Tomographic Volumetric Additive Manufacturing and Two-Photon Polymerization. [arXiv:2601.13457](https://arxiv.org/abs/2601.13457)
-* **Felix Wechsler**, Riccardo Rizzo, Christophe Moser. Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization. [arXiv:2601.16330](https://arxiv.org/abs/2601.16330)
+* **Felix Wechsler**, Riccardo Rizzo, Christophe Moser. Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization. Accepted at SIGGRAPH, Press release TBD. [arXiv:2601.16330](https://arxiv.org/abs/2601.16330)
 
 
 ## 2025
-* **Felix Wechsler**, Viola Sgarminato, Riccardo Rizzo, Baptiste Nicolet, Wenzel Jakob, Christophe Moser. Overprinting with Tomographic Volumetric Additive Manufacturing. [arXiv:2507.13842](https://arxiv.org/abs/2507.13842)
+* **Felix Wechsler**, Viola Sgarminato, Riccardo Rizzo, Baptiste Nicolet, Wenzel Jakob, Christophe Moser. Overprinting with Tomographic Volumetric Additive Manufacturing. Accepted at Nature communications. Press release TBD. [arXiv:2507.13842](https://arxiv.org/abs/2507.13842)
 * Shiqi Xu, Rachna Parwani, Nathan Johnson, Felix Wechsler, Andrea Bertoncini, Gerhard Krampert, Marie-Christine Zdora, Matthew Andrew. High-Resolution Multimodal Tomography with a Plenoptic Hard X-Ray Laboratory System. [Computational Optical Sensing and Imaging, CW3B. 5](https://opg.optica.org/abstract.cfm?uri=cosi-2025-CW3B.5)
 
 ## 2024

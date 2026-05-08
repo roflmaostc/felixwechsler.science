@@ -14,7 +14,7 @@
     I'm Felix Wechsler (he/him) and I'm passionate about combining optics with computer science (preferably <a href="https://julialang.org/">Julia Lang</a>).
 <p  >In 2023, I started as doctoral candidate at <a href="https://www.epfl.ch/labs/lapd/">EPFL in Lausanne</a> in the LAPD led by Christophe Moser.
     I work on computational tools to improve <a href="https://www.youtube.com/watch?v=ONBHkzimRbg">Tomographic 3D Printing</a>.
-    <p>Outside of academia, I enjoy <a href="https://www.strava.com/athletes/100197734">cycling</a> (upcoming <a href="https://mallorca312.com/">Mallorca 312 2026</a>) and playing <a href="https://www.flyhigh.ultimate.ch/">Ultimate Frisbee</a>. Besides that, I'm involved in the <a href="https://www.orpheus-verein.de/de/">Orpheus e.V.</a> to prepare pupils participating at physics competitions. And I'm teaching at the <a href="https://jgw-ev.de/">sustainability camp</a>.
+    <p>Outside of academia, I enjoy <a href="https://www.strava.com/athletes/100197734">cycling</a> (last <a href="https://mallorca312.com/">Mallorca 312 2026</a>) and playing <a href="https://www.flyhigh.ultimate.ch/">Ultimate Frisbee</a>. Besides that, I'm involved in the <a href="https://www.orpheus-verein.de/de/">Orpheus e.V.</a> to prepare pupils participating at physics competitions. And I'm teaching at the <a href="https://jgw-ev.de/">sustainability camp</a>.
     <p>Within the EPFL community, I help promote the Julia programming language through the <a href="https://go.epfl.ch/julia">Julia EPFL community</a>.</p>
     Don't hesitate to reach out to me (see bottom of this page)! 
   </div>
@@ -25,12 +25,11 @@
 
 # News
 * New preprint: [The Pandoro effect in Tomographic Volumetric Additive Manufacturing](https://arxiv.org/abs/2604.06313)
-* New preprint: [Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization](https://arxiv.org/abs/2601.16330)
+* New preprint accepted at SIGGRAPH: [Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization](https://arxiv.org/abs/2601.16330)
 * I am visiting Stanford from May until September!
 * I am looking for potential postdoctoral positions starting from summer 2027. I am interested in anything around physical & chemical modelling of VAM processes and/or potential bio applications.
-* We are going to attend [Photonics Europe](https://spie.org/photonics-europe/presentation/Overprinting-with-Tomographic-Volumetric-Additive-Manufacturing-using-Dr-TVAM/14082-36) in Strasbourg from 12th to 16th of April and [TERMIS2026](https://eu2026.termis.org/) in Mallorca from 21st to 24th of April.
 * I received the best talk award at [3DAM conference](https://3dam-conference.com/). However, I rejected it because of financial sponsorship by Elsevier. See [here](https://www.linkedin.com/posts/felix-wechsler_i-rejected-an-elsevier-sponsored-best-talk-activity-7431673941246603264-c3uK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA756JMBrITExbZ2L3rXb4EeHtFzhscC78c) my reasoning.
-* We published a preprint called [Overprinting with Tomographic Volumetric Additive Manufacturing](https://arxiv.org/abs/2507.13842). Also see the [LinkedIn post](https://www.linkedin.com/posts/felix-wechsler_3dprinting-optics-mitsuba-activity-7352971453316665345-24-8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA756JMBrITExbZ2L3rXb4EeHtFzhscC78c)
+* We published a preprint accepted at Nature Communications called [Overprinting with Tomographic Volumetric Additive Manufacturing](https://arxiv.org/abs/2507.13842). Also see the [LinkedIn post](https://www.linkedin.com/posts/felix-wechsler_3dprinting-optics-mitsuba-activity-7352971453316665345-24-8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA756JMBrITExbZ2L3rXb4EeHtFzhscC78c)
 * [Dr. TVAM](https://github.com/rgl-epfl/drtvam) for optimizing ray-optical patterns for tomographic volumetric additive manufacturing (TVAM) is now available. 
 
 ## Current Projects 

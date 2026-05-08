@@ -1,5 +1,8 @@
 # News
 
+## March '26
+* We are going to attend [Photonics Europe](https://spie.org/photonics-europe/presentation/Overprinting-with-Tomographic-Volumetric-Additive-Manufacturing-using-Dr-TVAM/14082-36) in Strasbourg from 12th to 16th of April and [TERMIS2026](https://eu2026.termis.org/) in Mallorca from 21st to 24th of April.
+
 ## September and October '25
 * I am attending [OptoFluidiX 2025](https://home.uni-leipzig.de/~physik/sites/optofluidix2025/wp-content/uploads/sites/13/2025/09/List-of-Posters.pdf) in Leipzig from 16th - 18th of September.
 * We present our overprinting work at [3D Additive Manufacturing](https://3dam-conference.com/wp-content/uploads/2025/09/3Dam2025_PROGRAM.pdf)  in San Sebastian from 7th to 10th of October.
