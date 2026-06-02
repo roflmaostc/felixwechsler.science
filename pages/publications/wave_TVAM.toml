@@ -1,0 +1,7 @@
+title      = "Wave optical model for tomographic volumetric additive manufacturing"
+authors    = "<b>Felix Wechsler</b>, Carlo Gigli, Jorge Madrid-Wolff, Christophe Moser"
+venue      = "Optics Express, Vol. 32, pp. 14705–14712, 2024"
+link       = "https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-8-14705"
+link_label = "Optics Express (open access)"
+desc       = "Wave-optical forward model for TVAM using angular spectrum propagation — recovers resolution lost by ray-optics at feature sizes below 20 µm."
+image      = "/assets/wave_TVAM.jpg"

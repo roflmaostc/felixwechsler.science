@@ -24,13 +24,43 @@
 
 
 # News
+* I am visiting Stanford from May until September!
 * New preprint: [The Pandoro effect in Tomographic Volumetric Additive Manufacturing](https://arxiv.org/abs/2604.06313)
 * New preprint accepted at SIGGRAPH: [Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization](https://arxiv.org/abs/2601.16330)
-* I am visiting Stanford from May until September!
 * I am looking for potential postdoctoral positions starting from summer 2027. I am interested in anything around physical & chemical modelling of VAM processes and/or potential bio applications.
 * I received the best talk award at [3DAM conference](https://3dam-conference.com/). However, I rejected it because of financial sponsorship by Elsevier. See [here](https://www.linkedin.com/posts/felix-wechsler_i-rejected-an-elsevier-sponsored-best-talk-activity-7431673941246603264-c3uK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA756JMBrITExbZ2L3rXb4EeHtFzhscC78c) my reasoning.
-* We published a preprint accepted at Nature Communications called [Overprinting with Tomographic Volumetric Additive Manufacturing](https://arxiv.org/abs/2507.13842). Also see the [LinkedIn post](https://www.linkedin.com/posts/felix-wechsler_3dprinting-optics-mitsuba-activity-7352971453316665345-24-8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA756JMBrITExbZ2L3rXb4EeHtFzhscC78c)
 * [Dr. TVAM](https://github.com/rgl-epfl/drtvam) for optimizing ray-optical patterns for tomographic volumetric additive manufacturing (TVAM) is now available. 
+
+
+## Selected Publications
+
+
+{{pubcard SHVAM}}
+
+{{pubcard pandoro}}
+
+{{pubcard overprinting}}
+
+
+~~~
+<div style="margin-bottom: 1em;">
+<div class="pub-preview" onclick="window.location='https://rgl.epfl.ch/publications/Nicolet2024Inverse'" style="max-width:100%; cursor:pointer;">
+  <img src="/assets/drtvam.jpg" alt="preview" />
+  <span class="pub-preview-text">
+    <span class="pub-preview-title">Inverse Rendering of Volumetric Additive Manufacturing (Dr.TVAM)</span>
+    <span class="pub-preview-desc">
+      Baptiste Nicolet, <b>Felix Wechsler</b>, Jorge Madrid-Wolff, Christophe Moser, Wenzel Jakob<br>
+      <em>ACM Transactions on Graphics (SIGGRAPH Asia), 2024</em><br><br>
+      Differentiable rendering framework for TVAM — simulates light scattering in arbitrary resins and computes optimized projection patterns for square vials and scattering media.
+    </span>
+    <span class="pub-preview-hint">↗ click to read more</span>
+  </span>
+</div>
+</div>
+~~~
+
+{{pubcard wave_TVAM}}
+
 
 ## Current Projects 
 * Volumetric 3D printing (Tomographic is one variant)

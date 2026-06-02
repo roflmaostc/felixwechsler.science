@@ -1,0 +1,7 @@
+title   = "Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization"
+authors = "<b>Felix Wechsler</b>, Riccardo Rizzo, Christophe Moser"
+venue   = "arXiv preprint, 2026"
+link    = "https://arxiv.org/abs/2601.16330"
+link_label = "arXiv:2601.16330"
+desc    = "Mechanically static holographic VAM achieving ~10 µm lateral features using coupled wave-optical and photochemical optimization."
+image   = "/assets/SHVAM.jpg"
