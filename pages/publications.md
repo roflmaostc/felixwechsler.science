@@ -12,7 +12,28 @@ Bold names are first author publications
 
 
 ## 2025
-* **Felix Wechsler**, Viola Sgarminato, Riccardo Rizzo, Baptiste Nicolet, Wenzel Jakob, Christophe Moser. Overprinting with Tomographic Volumetric Additive Manufacturing. Accepted at Nature communications. Press release TBD. [arXiv:2507.13842](https://arxiv.org/abs/2507.13842)
+
+~~~
+<div style="margin-bottom: 1em;">
+<div class="pub-preview" onclick="window.location='/pages/publications/overprinting/'" style="max-width:100%; cursor:pointer;">
+  <img src="/assets/overprinting.jpg" alt="preview" />
+  <span class="pub-preview-text">
+    <span class="pub-preview-title">Overprinting with Tomographic Volumetric Additive Manufacturing</span>
+    <span class="pub-preview-desc">
+      <strong>Felix Wechsler</strong>, Viola Sgarminato, Riccardo Rizzo, Baptiste Nicolet, Wenzel Jakob, Christophe Moser.
+      Accepted at <em>Nature Communications</em>. Press release TBD.
+      <a href="https://arxiv.org/abs/2507.13842" style="color:#b74430;" onclick="event.stopPropagation();">arXiv:2507.13842</a><br><br>
+      High-quality overprinting for TVAM which considers optical effects such as scattering, reflection, refraction or attenuation.
+    </span>
+    <span class="pub-preview-hint">↗ click to read more</span>
+  </span>
+</div>
+</div>
+~~~
+
+
+
+
 * Shiqi Xu, Rachna Parwani, Nathan Johnson, Felix Wechsler, Andrea Bertoncini, Gerhard Krampert, Marie-Christine Zdora, Matthew Andrew. High-Resolution Multimodal Tomography with a Plenoptic Hard X-Ray Laboratory System. [Computational Optical Sensing and Imaging, CW3B. 5](https://opg.optica.org/abstract.cfm?uri=cosi-2025-CW3B.5)
 
 ## 2024

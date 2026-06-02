@@ -32,6 +32,28 @@
 * We published a preprint accepted at Nature Communications called [Overprinting with Tomographic Volumetric Additive Manufacturing](https://arxiv.org/abs/2507.13842). Also see the [LinkedIn post](https://www.linkedin.com/posts/felix-wechsler_3dprinting-optics-mitsuba-activity-7352971453316665345-24-8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA756JMBrITExbZ2L3rXb4EeHtFzhscC78c)
 * [Dr. TVAM](https://github.com/rgl-epfl/drtvam) for optimizing ray-optical patterns for tomographic volumetric additive manufacturing (TVAM) is now available. 
 
+
+## Selected Publications
+~~~
+<div style="margin-bottom: 1em;">
+<div class="pub-preview" onclick="window.location='/pages/publications/overprinting/'" style="max-width:100%; cursor:pointer;">
+  <img src="/assets/overprinting.jpg" alt="preview" />
+  <span class="pub-preview-text">
+    <span class="pub-preview-title">Overprinting with Tomographic Volumetric Additive Manufacturing</span>
+    <span class="pub-preview-desc">
+      <strong>Felix Wechsler</strong>, Viola Sgarminato, Riccardo Rizzo, Baptiste Nicolet, Wenzel Jakob, Christophe Moser.
+      Accepted at <em>Nature Communications</em>. Press release TBD.
+      <a href="https://arxiv.org/abs/2507.13842" style="color:#b74430;" onclick="event.stopPropagation();">arXiv:2507.13842</a><br><br>
+      High-quality overprinting for TVAM which considers optical effects such as scattering, reflection, refraction or attenuation.
+    </span>
+    <span class="pub-preview-hint">↗ click to read more</span>
+  </span>
+</div>
+</div>
+~~~
+
+
+
 ## Current Projects 
 * Volumetric 3D printing (Tomographic is one variant)
 * Holographic 3D printing
