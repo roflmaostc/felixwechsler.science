@@ -6,6 +6,8 @@ Bold names are first author publications
 
 ## 2026
 
+{{pubcard overprinting}}
+
 {{pubcard SHVAM}}
 
 {{pubcard pandoro}}
@@ -17,7 +19,6 @@ Bold names are first author publications
 
 ## 2025
 
-{{pubcard overprinting}}
 
 
 * Shiqi Xu, Rachna Parwani, Nathan Johnson, Felix Wechsler, Andrea Bertoncini, Gerhard Krampert, Marie-Christine Zdora, Matthew Andrew. High-Resolution Multimodal Tomography with a Plenoptic Hard X-Ray Laboratory System. [Computational Optical Sensing and Imaging, CW3B. 5](https://opg.optica.org/abstract.cfm?uri=cosi-2025-CW3B.5)
