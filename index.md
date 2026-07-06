@@ -24,13 +24,13 @@
 
 
 # News
-* I am visiting Stanford from May until September!
-* Overprinting with TVAM is now published in [Nature Communications](https://www.nature.com/articles/s41467-026-73477-3) in June 2026!
-* New preprint: [The Pandoro effect in Tomographic Volumetric Additive Manufacturing](https://arxiv.org/abs/2604.06313)
-* Holographic printing accepted at SIGGRAPH in LA in July 2026: [Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization](https://arxiv.org/abs/2601.16330)
-* I am looking for potential postdoctoral positions starting from summer 2027. I am interested in anything around physical & chemical modelling of VAM processes and/or potential bio applications.
-* I received the best talk award at [3DAM conference](https://3dam-conference.com/). However, I rejected it because of financial sponsorship by Elsevier. See [here](https://www.linkedin.com/posts/felix-wechsler_i-rejected-an-elsevier-sponsored-best-talk-activity-7431673941246603264-c3uK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA756JMBrITExbZ2L3rXb4EeHtFzhscC78c) my reasoning.
-* [Dr. TVAM](https://github.com/rgl-epfl/drtvam) for optimizing ray-optical patterns for tomographic volumetric additive manufacturing (TVAM) is now available. 
+* **[July '26]** I present Holographic printing at SIGGRAPH in LA in July 2026: [Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization](https://dl.acm.org/doi/10.1145/3811332)
+* **[May '26]** I am visiting Stanford from May until September!
+* **[June '26]** Overprinting with TVAM is now published in [Nature Communications](https://www.nature.com/articles/s41467-026-73477-3) in June 2026!
+* **[March '26]** New preprint: [The Pandoro effect in Tomographic Volumetric Additive Manufacturing](https://arxiv.org/abs/2604.06313)
+* **[Jan '26]** I am looking for potential postdoctoral positions starting from summer 2027. I am interested in anything around physical & chemical modelling of VAM processes and/or potential bio applications.
+* **[Sep '25]** I received the best talk award at [3DAM conference](https://3dam-conference.com/). However, I rejected it because of financial sponsorship by Elsevier. See [here](https://www.linkedin.com/posts/felix-wechsler_i-rejected-an-elsevier-sponsored-best-talk-activity-7431673941246603264-c3uK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA756JMBrITExbZ2L3rXb4EeHtFzhscC78c) my reasoning.
+* **[Dec '24]** [Dr. TVAM](https://github.com/rgl-epfl/drtvam) for optimizing ray-optical patterns for tomographic volumetric additive manufacturing (TVAM) is now available. 
 
 
 ## Selected Publications
