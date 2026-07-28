@@ -1,7 +1,7 @@
 title      = "Too Big, Too Small, Too O₂: The Pandoro Effect from Oxygen Gradients in Tomographic Volumetric Additive Manufacturing"
 authors    = "Riccardo Rizzo, <b>Felix Wechsler</b>, Qianyi Zhang, Christophe Moser"
 venue      = "Biofabrication, 2026"
-link       = "doi.org/10.1088/1758-5090/ae8a84"
+link       = "https://doi.org/10.1088/1758-5090/ae8a84"
 link_label = "doi.org/10.1088/1758-5090/ae8a84"
 desc       = "Identifies and corrects the Pandoro effect — a truncated-cone printing artifact in TVAM caused by vertical oxygen gradients in thermoreversible hydrogels."
 image      = "/assets/pandoro.jpeg"

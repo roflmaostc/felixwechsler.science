@@ -2,6 +2,7 @@
 Felix Wechsler, born 1995 in Germany
 
 ## Education
+* Summer 2026: Visiting PhD at [Stanford University](https://www.computationalimaging.org/) in the lab of [Gordon Wetzstein](https://stanford.edu/~gordonwz/)
 * 2023 - ongoing: PhD student at [EPFL](https://www.epfl.ch/labs/lapd/), Laboratory of Applied Photonics Devices led by [Christophe Moser](https://people.epfl.ch/christophe.moser?lang=en)
 * 2021: Visiting Scientist at [Duke University](https://bme.duke.edu/) in the lab of [Roarke Horstmeyer](https://horstmeyer.pratt.duke.edu/)
 * 2019 - 2021: Master's degree in Photonics at [Friedrich Schiller University of Jena](https://www.physik.uni-jena.de/en/research)
@@ -23,6 +24,7 @@ Felix Wechsler, born 1995 in Germany
 * 2014 - 2016: Working student at the [Leibniz Supercomputing Centre, Garching](https://www.lrz.de/)
 
 ## Teaching Experience
+* 2026: Teaching Assistant at EPFL for [Advanced Microfabrication](https://edu.epfl.ch/coursebook/fr/advanced-microfabrication-practicals-MICRO-373) 
 * 2025: Course Instructor *Is there a planet B?* at [Deutsche Schülerakademie](https://www.schuelerakademien.de/programm/kurs?tx_ewacademy_coursedetail%5Bcontroller%5D=Course&tx_ewacademy_coursedetail%5Bcourse%5D=4662&cHash=b45d124a178e7203b3cf685853b7cdfd)
 * 2024, 2025: Teaching assistant for [Computational Optical Imaging](https://edu.epfl.ch/coursebook/en/computational-optical-imaging-MICRO-421) with Demetri Psaltis
 * 2024: Teaching assistant for [Lasers: theory and modern applications](https://edu.epfl.ch/coursebook/fr/lasers-theory-and-modern-applications-MICRO-422)

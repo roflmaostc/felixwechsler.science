@@ -50,7 +50,7 @@ Bold names are first author publications
 
 {{pubcard wave_TVAM}}
 
-* Riccardo Mincigrucci, Ettore Paltanin, Jacopo-Stefano Pelli-Cresi, Fabrizio Gala, Emanuele Pontecorvo, Laura Foglia, Dario De Angelis, Danny Fainozzi, Alessandro Gessini, Daniel S. P. Molina, Ondreij Stranik, Felix Wechsler, Rainer Heintzmann, Jan Rothhardt, Lars Loetgering, Giancarlo Ruocco, Filippo Bencivenga, and Claudio Masciovecchio, "Structured illumination microscopy with extreme ultraviolet pulses." [arXiv](https://arxiv.org/abs/2403.19382) preprint arXiv:2403.19382 (2024).
+* Riccardo Mincigrucci, Ettore Paltanin, Jacopo-Stefano Pelli-Cresi, Fabrizio Gala, Emanuele Pontecorvo, Laura Foglia, Dario De Angelis, Danny Fainozzi, Alessandro Gessini, Daniel S. P. Molina, Ondreij Stranik, Felix Wechsler, Rainer Heintzmann, Jan Rothhardt, Lars Loetgering, Giancarlo Ruocco, Filippo Bencivenga, and Claudio Masciovecchio, "Structured illumination microscopy with extreme ultraviolet pulses." [Optics Express](https://opg.optica.org/oe/viewmedia.cfm?uri=oe-32-17-30813&html=true).
 
 
 ## 2023

@@ -13,7 +13,7 @@
   <div class="column right">
     I'm Felix Wechsler (he/him) and I'm passionate about combining optics with computer science (preferably <a href="https://julialang.org/">Julia Lang</a>).
 <p  >In 2023, I started as doctoral candidate at <a href="https://www.epfl.ch/labs/lapd/">EPFL in Lausanne</a> in the LAPD led by Christophe Moser.
-    I work on computational tools to improve <a href="https://www.youtube.com/watch?v=ONBHkzimRbg">Tomographic 3D Printing</a>.
+    I work on computational tools to improve <a href="https://www.youtube.com/watch?v=w6weg4noMIY">Tomographic</a> and Holographic 3D Printing.
     <p>Outside of academia, I enjoy <a href="https://www.strava.com/athletes/100197734">cycling</a> (last <a href="https://mallorca312.com/">Mallorca 312 2026</a>) and playing <a href="https://www.flyhigh.ultimate.ch/">Ultimate Frisbee</a>. Besides that, I'm involved in the <a href="https://www.orpheus-verein.de/de/">Orpheus e.V.</a> to prepare pupils participating at physics competitions. And I'm teaching at the <a href="https://jgw-ev.de/">sustainability camp</a>.
     <p>Within the EPFL community, I help promote the Julia programming language through the <a href="https://go.epfl.ch/julia">Julia EPFL community</a>.</p>
     Don't hesitate to reach out to me (see bottom of this page)! 
@@ -24,17 +24,20 @@
 
 
 # News
+* **[July '26]** We released a dual color antagonistic TVAM [preprint](https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15006647/v1).  
+* **[July '26]** Our multiscale 2 photon and TVAM single photon printer is accepted at Light: Science & Applications! [Preprint here](https://arxiv.org/abs/2601.13457). 
+* **[July '26]** The Pandoro effect in Tomographic Volumetric Additive Manufacturing is accepted [in Biofabrication!](https://iopscience.iop.org/article/10.1088/1758-5090/ae8a84/meta)
 * **[July '26]** I present Holographic printing at SIGGRAPH in LA in July 2026: [Single-View Holographic Volumetric 3D Printing with Coupled Differentiable Wave-Optical and Photochemical Optimization](https://dl.acm.org/doi/10.1145/3811332)
 * **[May '26]** I am visiting Stanford from May until September!
 * **[June '26]** Overprinting with TVAM is now published in [Nature Communications](https://www.nature.com/articles/s41467-026-73477-3) in June 2026!
-* **[March '26]** New preprint: [The Pandoro effect in Tomographic Volumetric Additive Manufacturing](https://arxiv.org/abs/2604.06313)
 * **[Jan '26]** I am looking for potential postdoctoral positions starting from summer 2027. I am interested in anything around physical & chemical modelling of VAM processes and/or potential bio applications.
 * **[Sep '25]** I received the best talk award at [3DAM conference](https://3dam-conference.com/). However, I rejected it because of financial sponsorship by Elsevier. See [here](https://www.linkedin.com/posts/felix-wechsler_i-rejected-an-elsevier-sponsored-best-talk-activity-7431673941246603264-c3uK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA756JMBrITExbZ2L3rXb4EeHtFzhscC78c) my reasoning.
-* **[Dec '24]** [Dr. TVAM](https://github.com/rgl-epfl/drtvam) for optimizing ray-optical patterns for tomographic volumetric additive manufacturing (TVAM) is now available. 
 
 
 ## Selected Publications
 
+
+{{pubcard antagonistic_TVAM}}
 
 {{pubcard SHVAM}}
 
