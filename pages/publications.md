@@ -6,6 +6,13 @@ Bold names are first author publications
 
 ## 2026
 
+
+{{pubcard antagonistic_TVAM}}
+
+* Ali Eftekhari, Qianyi Zhang, Shahla Radmehr, Felix Wechsler, Riccardo Rizzo, Ville Santala, Minna Kellomäki, Alexander Efimov, Timo Laaksonen, Christophe Moser. Red-Light Tomographic Volumetric 3D Printing in Seconds for Fabrication of Colorless Structures. [ChemRxiv preprint](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15004285/v5) 
+
+{{pubcard 2PP_TVAM}}
+
 {{pubcard overprinting}}
 
 {{pubcard SHVAM}}
@@ -14,7 +21,6 @@ Bold names are first author publications
 
 
 * Riccardo Rizzo, Viola Sgarminato, Felix Wechsler, Christophe Moser. Tomographic Printing in a Chip: A Versatile Platform for Biomimetic 3D Organ-on-Chip. [bioRxiv 10.64898 2026.02.26.708161](https://www.biorxiv.org/content/10.64898/2026.02.26.708161v2.abstract)
-* Buse Unlu, Felix Wechsler, Ye Pu, Christophe Moser. A unified multiscale 3D printer combining single-photon Tomographic Volumetric Additive Manufacturing and Two-Photon Polymerization. [arXiv:2601.13457](https://arxiv.org/abs/2601.13457)
 
 
 ## 2025

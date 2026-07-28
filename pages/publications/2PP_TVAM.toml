@@ -1,0 +1,7 @@
+title   = "A unified multiscale 3D printer combining single-photon Tomographic Volumetric Additive Manufacturing and Two-Photon Polymerization"
+authors = "Buse Unlu, Felix Wechsler, Ye Pu, Christophe Moser"
+venue   = "Light: Science & Applications (just accepted, will be published 2027.)"
+link    = "https://arxiv.org/abs/2601.13457"
+link_label = "arxiv:2601.13457"
+desc    = "Combining two-photon polymerization and single-photon polyermization via TVAM to combine high-throughput and resolution in 3D printing"
+image   = "/assets/2PP_TVAM.jpg"
