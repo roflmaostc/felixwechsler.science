@@ -35,7 +35,7 @@ Bold names are first author publications
 <div class="pub-preview" onclick="window.location='https://rgl.epfl.ch/publications/Nicolet2024Inverse'" style="max-width:100%; cursor:pointer;">
   <img src="/assets/drtvam.jpg" alt="preview" />
   <span class="pub-preview-text">
-    <span class="pub-preview-title">Inverse Rendering of Volumetric Additive Manufacturing (Dr.TVAM)</span>
+    <span class="pub-preview-title">Inverse Rendering for Tomographic Volumetric Additive Manufacturing (Dr.TVAM)</span>
     <span class="pub-preview-desc">
       Baptiste Nicolet, <b>Felix Wechsler</b>, Jorge Madrid-Wolff, Christophe Moser, Wenzel Jakob<br>
       <em>ACM Transactions on Graphics (SIGGRAPH Asia), 2024</em><br><br>
