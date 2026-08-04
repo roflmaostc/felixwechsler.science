@@ -6,6 +6,7 @@ Bold names are first author publications
 
 ## 2026
 
+{{pubcard TVAM_chip}}
 
 {{pubcard antagonistic_TVAM}}
 
@@ -18,9 +19,6 @@ Bold names are first author publications
 {{pubcard SHVAM}}
 
 {{pubcard pandoro}}
-
-
-* Riccardo Rizzo, Viola Sgarminato, Felix Wechsler, Christophe Moser. Tomographic Printing in a Chip: A Versatile Platform for Biomimetic 3D Organ-on-Chip. [bioRxiv 10.64898 2026.02.26.708161](https://www.biorxiv.org/content/10.64898/2026.02.26.708161v2.abstract)
 
 
 ## 2025

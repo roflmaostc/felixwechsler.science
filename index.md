@@ -24,6 +24,7 @@
 
 
 # News
+* **[August '26]** TVAM-in-a-chip got [published in Wiley Advanced Healthcare Materials](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adhm.71504).
 * **[July '26]** We released a dual color antagonistic TVAM [preprint](https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15006647/v1).  
 * **[July '26]** Our multiscale 2 photon and TVAM single photon printer is accepted at Light: Science & Applications! [Preprint here](https://arxiv.org/abs/2601.13457). 
 * **[July '26]** The Pandoro effect in Tomographic Volumetric Additive Manufacturing is accepted [in Biofabrication!](https://iopscience.iop.org/article/10.1088/1758-5090/ae8a84/meta)
@@ -44,6 +45,8 @@
 {{pubcard overprinting}}
 
 {{pubcard pandoro}}
+
+{{pubcard TVAM_chip}}
 
 ~~~
 <div style="margin-bottom: 1em;">
